@@ -1,0 +1,27 @@
+flavone
+tropine
+quinidine
+khellin
+methylsalicyladehyde
+beta-carotene
+cholecalciferol
+4-isopropylbenzyl alcohohol
+MSMS_1
+MSMS_2
+MSMS_3
+MSMS_4
+MSMS_5
+MSMS_6
+MSMS_7
+MSMS_8
+MSMS_9
+MSMS_10
+MSMS_11
+MSMS_12
+MSMS_13
+MSMS_14
+L-Tyrosine
+L-DOPA
+4-Hydroxyphenyl-pyruvic acid
+dopamine
+4-hydroxyphenyl-acetaldehyde
