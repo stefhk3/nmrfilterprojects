@@ -1,27 +1,27 @@
-1: CN1C2CCC1CC(C2)O/tropine, distance: 0.00, standard deviation:  n/a
-2: CC(C)C1=CC=C(C=C1)CO/4-isopropylbenzyl alcohohol, distance: 0.18, standard deviation:  n/a
-3: CC1=CC(=O)C2=C(C3=C(C(=C2O1)OC)OC=C3)OC/khellin, distance: 0.21, standard deviation:  n/a
-4: OC1=CC=C(CC=O)C=C1/4-hydroxyphenyl-acetaldehyde, distance: 0.21, standard deviation:  n/a
-5: O=C(C(O)=O)CC1=CC=C(O)C=C1/4-Hydroxyphenyl-pyruvic acid, distance: 0.22, standard deviation:  n/a
-6: OC1=CC=C(C[C@H](N)C(O)=O)C=C1/L-Tyrosine, distance: 0.23, standard deviation:  n/a
-7: CC1=CC=CC(=C1O)C=O/methylsalicyladehyde, distance: 0.26, standard deviation:  n/a
-8: NCCC1=CC(O)=C(O)C=C1/dopamine, distance: 0.28, standard deviation:  n/a
-9: NC(C(O)=O)CC1=CC(O)=C(O)C=C1/L-DOPA, distance: 0.34, standard deviation:  n/a
-10: C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2/flavone, distance: 0.42, standard deviation:  n/a
-11: OC1=C(OC)C([H])=CC(C2)=C1C3=C(C2N(C)CC4)C4=CC(OC)=C3OC/MSMS_12, distance: 0.44, standard deviation:  n/a
-12: CN1C(CC2=CC=C(OC)C=C2)C3=CC(O)=C(O)C=C3CC1/MSMS_4, distance: 0.45, standard deviation:  n/a
-13: OC1=C(OC)C([H])=CC(C2)=C1C3=C(C2NCC4)C4=CC(OC)=C3OC/MSMS_13, distance: 0.45, standard deviation:  n/a
-14: CN1C(CC2=CC=C(O)C=C2)C3=CC(O)=C(O)C=C3CC1/MSMS_2, distance: 0.45, standard deviation:  n/a
-15: OC1=C(O)C=C(C(CC2=CC=C(O)C=C2)NCC3)C3=C1/MSMS_5, distance: 0.45, standard deviation:  n/a
-16: CN1C(CC2=CC=C(OC)C=C2)C3=CC(OC)=C(O)C=C3CC1/MSMS_3, distance: 0.46, standard deviation:  n/a
-17: CN1C(CC2=CC=C(O)C=C2)C3=CC(OC)=C(O)C=C3CC1/MSMS_1, distance: 0.46, standard deviation:  n/a
-18: OC1=C(OC)C=C(C(CC2=CC=C(O)C=C2)NCC3)C3=C1/MSMS_6, distance: 0.47, standard deviation:  n/a
-19: OC1=C(OC)C(C(C([H])=C(OC)C(O)=C2)=C2C3)=C(C3NCC4)C4=C1/MSMS_8, distance: 0.47, standard deviation:  n/a
-20: [H]C(C([H])=C1)=C(OC)C2=C1CC3C4=C2C(OC)=C(OC)C=C4CCN3/MSMS_11, distance: 0.48, standard deviation:  n/a
-21: OC1=C(OC)C(C(C([H])=C(OC)C(O)=C2)=C2C3)=C(C3N(C)CC4)C4=C1/MSMS_7, distance: 0.49, standard deviation:  n/a
-22: OC1=C(OC)C=C2C3=C1C(C(OC)=C([H])C([H])=C4)=C4CC3N(C)CC2/MSMS_10, distance: 0.49, standard deviation:  n/a
-23: OC1=C([H])C([H])=CC(C2)=C1C3=C(C2N(C)CC4)C4=CC(OC)=C3OC/MSMS_9, distance: 0.49, standard deviation:  n/a
-24: [H]C1=CC(C2)=C(C=C1)C3=C(C2N(C)CC4)C4=CC=C3/MSMS_14, distance: 0.58, standard deviation:  n/a
-25: CC(=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C)C=CC=C(C)C=CC2=C(C)CCCC2(C)C/beta-carotene, distance: 0.64, standard deviation:  n/a
-26: COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O/quinidine, distance: 0.66, standard deviation:  n/a
-27: CC(C)CCCC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C/cholecalciferol, distance: 1.00, standard deviation:  n/a
+1: COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O/quinidine, distance: 0.02, standard deviation: 1.00
+2: CC(C)CCCC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C/cholecalciferol, distance: 0.08, standard deviation: 0.97
+3: [H]C(C([H])=C1)=C(OC)C2=C1CC3C4=C2C(OC)=C(OC)C=C4CCN3/MSMS_11, distance: 0.15, standard deviation: 0.91
+4: OC1=C(OC)C([H])=CC(C2)=C1C3=C(C2NCC4)C4=CC(OC)=C3OC/MSMS_13, distance: 0.17, standard deviation: 0.93
+5: [H]C1=CC(C2)=C(C=C1)C3=C(C2N(C)CC4)C4=CC=C3/MSMS_14, distance: 0.08, standard deviation: 0.83
+6: OC1=C(OC)C=C2C3=C1C(C(OC)=C([H])C([H])=C4)=C4CC3N(C)CC2/MSMS_10, distance: 0.13, standard deviation: 0.86
+7: OC1=C(OC)C(C(C([H])=C(OC)C(O)=C2)=C2C3)=C(C3NCC4)C4=C1/MSMS_8, distance: 0.18, standard deviation: 0.88
+8: OC1=C(OC)C(C(C([H])=C(OC)C(O)=C2)=C2C3)=C(C3N(C)CC4)C4=C1/MSMS_7, distance: 0.12, standard deviation: 0.81
+9: OC1=C(OC)C([H])=CC(C2)=C1C3=C(C2N(C)CC4)C4=CC(OC)=C3OC/MSMS_12, distance: 0.13, standard deviation: 0.78
+10: CC(=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C)C=CC=C(C)C=CC2=C(C)CCCC2(C)C/beta-carotene, distance: 0.02, standard deviation: 0.67
+11: OC1=C([H])C([H])=CC(C2)=C1C3=C(C2N(C)CC4)C4=CC(OC)=C3OC/MSMS_9, distance: 0.13, standard deviation: 0.63
+12: NCCC1=CC(O)=C(O)C=C1/dopamine, distance: 0.06, standard deviation: 0.50
+13: C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2/flavone, distance: 0.00, standard deviation: 0.42
+14: CN1C(CC2=CC=C(OC)C=C2)C3=CC(OC)=C(O)C=C3CC1/MSMS_3, distance: 0.13, standard deviation: 0.53
+15: OC1=C(OC)C=C(C(CC2=CC=C(O)C=C2)NCC3)C3=C1/MSMS_6, distance: 0.15, standard deviation: 0.55
+16: OC1=C(O)C=C(C(CC2=CC=C(O)C=C2)NCC3)C3=C1/MSMS_5, distance: 0.17, standard deviation: 0.55
+17: NC(C(O)=O)CC1=CC(O)=C(O)C=C1/L-DOPA, distance: 0.24, standard deviation: 0.60
+18: CC(C)C1=CC=C(C=C1)CO/4-isopropylbenzyl alcohohol, distance: 0.05, standard deviation: 0.40
+19: CN1C(CC2=CC=C(O)C=C2)C3=CC(OC)=C(O)C=C3CC1/MSMS_1, distance: 0.16, standard deviation: 0.48
+20: CN1C(CC2=CC=C(OC)C=C2)C3=CC(O)=C(O)C=C3CC1/MSMS_4, distance: 0.16, standard deviation: 0.41
+21: CN1C2CCC1CC(C2)O/tropine, distance: 0.02, standard deviation: 0.24
+22: CN1C(CC2=CC=C(O)C=C2)C3=CC(O)=C(O)C=C3CC1/MSMS_2, distance: 0.18, standard deviation: 0.35
+23: CC1=CC(=O)C2=C(C3=C(C(=C2O1)OC)OC=C3)OC/khellin, distance: 0.00, standard deviation: 0.16
+24: OC1=CC=C(C[C@H](N)C(O)=O)C=C1/L-Tyrosine, distance: 0.40, standard deviation: 0.23
+25: O=C(C(O)=O)CC1=CC=C(O)C=C1/4-Hydroxyphenyl-pyruvic acid, distance: 0.67, standard deviation: 0.27
+26: OC1=CC=C(CC=O)C=C1/4-hydroxyphenyl-acetaldehyde, distance: 1.00, standard deviation: 0.42
+27: CC1=CC=CC(=C1O)C=O/methylsalicyladehyde, distance: 0.89, standard deviation: 0.00
