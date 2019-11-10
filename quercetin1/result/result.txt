@@ -1,0 +1,4 @@
+1: C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O/quercetin1, distance: 0.00, standard deviation: 0.00
+2: C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O/kaempferol1, distance: 1.00, standard deviation: 1.00
+3: C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O/quercetin2, distance: 0.00, standard deviation: 0.00
+4: C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O/kaempferol2, distance: 1.00, standard deviation: 1.00
