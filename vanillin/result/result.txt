@@ -1,4 +1,4 @@
-1: CCOC1=C(C=CC(=C1)C=O)O/Ethylvanillin, distance: 0.00, standard deviation: 0.52
-2: COC1=C(C=C(C=C1)C=O)OC/3,4-Dimethoxybenzaldehyde, distance: 1.00, standard deviation: 1.00
-3: COC1=C(C=CC(=C1)C=O)O/Vanillin, distance: 0.85, standard deviation: 0.00
-4: COC1=C(C=CC(=C1)C=O)O/Vanillin, distance: 0.85, standard deviation: 0.00
+1: CCOC1=C(C=CC(=C1)C=O)O/Ethylvanillin, distance: 0.00, standard deviation:  n/a
+2: COC1=C(C=CC(=C1)C=O)O/Vanillin, distance: 1.00, standard deviation:  n/a
+3: COC1=C(C=CC(=C1)C=O)O/Vanillin, distance: 1.00, standard deviation:  n/a
+4: COC1=C(C=C(C=C1)C=O)OC/3,4-Dimethoxybenzaldehyde, distance: 1.00, standard deviation:  n/a
