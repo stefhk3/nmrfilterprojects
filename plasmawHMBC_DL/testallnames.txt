@@ -1,0 +1,17 @@
+Alanine 
+Citrate 
+L_Glutamine 
+Glycine 
+D_Glucose 
+2_D_Glucose 
+Lactic_acid 
+Methanol 
+1,2_Propanediol 
+Succinic_acid 
+Taurine 
+L_Threonine 
+L_Valine 
+Terephthalic_acid 
+Leucine 
+Lysine 
+L_Proline 
