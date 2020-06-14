@@ -1,0 +1,67 @@
+Acetic acid 
+Alanine 
+gamma-Aminobutyric acid 
+Phosphoethanolamine 
+D-Aspartate 
+Dihydroxyacetone 
+Adonitol 
+L-Arginine 
+L-Asparagine 
+Betaine 
+Choline 
+1,3-Diaminopropane 
+meso-Erythritol 
+Ethanol 
+Glycerol 
+Glycine 
+D-Glucose 
+L-Glutamic acid 
+L-Isoleucine 
+myo-Inositol 
+Lactic acid 
+Leucine 
+Lysine 
+L-Phenylalanine 
+Putrescine 
+L-Proline 
+L-Serine 
+L-Tyrosine 
+L-Threonine 
+Uracil 
+L-Valine 
+2-Butanediol 
+N-acetyl-tyrosine 
+L-Homocitrulline 
+Adenosine 
+O-phospho-threonine 
+L-Tryptophan 
+Dehydroascorbic acid 
+Glycerophosphocholine 
+Glycyl L-Leucine
+15,15'-cis-Phytoene
+7,8,11,12-Tetrahydrolycopene
+Neurosporene
+beta-Carotene
+Serotonin
+Ergosterol
+Lanosterol
+Lichesterol
+Neurosporaxanthin
+Neurosporaxanthin
+Torulene
+cis,cis-3-Carboxymuconic acid
+O-(L-Norvalyl-5)isourea
+beta-Zeacarotene
+3,4-Didehydrolycopene
+Fecosterol
+Fungisterol
+5,6-Dehydroergosterol
+24-Methyl-24,25-dihydrolanosterol
+Eburicol
+Terricollene A
+Terricollene B
+Terricollene C
+Terricolyne
+5-Methoxytryptamine
+Melatonin
+Neurosporaxanthin methyl ester Methyl 4'-apo-beta,psi-caroten 4'-oate

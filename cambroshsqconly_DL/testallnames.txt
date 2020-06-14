@@ -1,0 +1,32 @@
+luteolin
+quercetin
+kaempferol
+3-caffeoylquinic acid
+4-caffeoylquinic acid
+5-caffeoylquinic acid
+3,4-Dicaffeoylquinic acid
+4,5-Dicaffeoylquinic acid
+3,5-Dicaffeoylquinic acid
+3-O-Feruloylquinic acid
+5-O-Feruloylquinic acid
+3,5,6,7-Tetrahydroxy-4'-methoxyflavone
+caffeic acid
+ferulic acid
+sinapic acid
+syringic acid
+p-coumaric acid
+salicylic acid
+gentisic acid
+vanillic acid
+rutin
+isoquercetin
+kaempferol 3-O-rutinoside
+astragalin
+apigenin 7-O-glucoside
+hyperoside
+luteolin 7-glucoside
+kaempferol 3-rutinoside
+naringin
+gallic acid
+protocatechuic acid
+Rosmarinic acid

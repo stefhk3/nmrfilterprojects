@@ -1,0 +1,40 @@
+Acetic acid 
+Alanine 
+gamma-Aminobutyric acid 
+Phosphoethanolamine 
+D-Aspartate 
+Dihydroxyacetone 
+Adonitol 
+L-Arginine 
+L-Asparagine 
+Betaine 
+Choline 
+1,3-Diaminopropane 
+meso-Erythritol 
+Ethanol 
+Glycerol 
+Glycine 
+D-Glucose 
+L-Glutamic acid 
+L-Isoleucine 
+myo-Inositol 
+Lactic acid 
+Leucine 
+Lysine 
+L-Phenylalanine 
+Putrescine 
+L-Proline 
+L-Serine 
+L-Tyrosine 
+L-Threonine 
+Uracil 
+L-Valine 
+2-Butanediol 
+N-acetyl-tyrosine 
+L-Homocitrulline 
+Adenosine 
+O-phospho-threonine 
+L-Tryptophan 
+Dehydroascorbic acid 
+Glycerophosphocholine 
+Glycyl L-Leucine
