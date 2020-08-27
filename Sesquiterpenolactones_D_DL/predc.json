@@ -2,7 +2,7 @@
     "predictions": [
         {
             "smiles": "C=C1C(=O)O[C@H]2[C@@H](OC(=O)C3(C)OC3C)C[C@@]3(C)OC(=CC3=O)[C@@H](C)[C@H](O)[C@H]12",
-            "runtime": 1.0396308898925781,
+            "runtime": 0.38927721977233887,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -109,7 +109,7 @@
         },
         {
             "smiles": "C=C(C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)/C(C)=C\\[C@@H]2C(=C)C(=O)O[C@@H]12)C(C)O",
-            "runtime": 0.33013200759887695,
+            "runtime": 0.3412947654724121,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -216,7 +216,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@H]2[C@@H](OC(=O)/C(=C/C)CO)C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@H]12",
-            "runtime": 0.30086326599121094,
+            "runtime": 0.3668045997619629,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -323,7 +323,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.3041069507598877,
+            "runtime": 0.3792717456817627,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -430,7 +430,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)[C@@H]3C[C@H](O)[C@@](CO)(C[C@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.2989950180053711,
+            "runtime": 0.3699057102203369,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -537,7 +537,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)/C(C)=C\\[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.2954418659210205,
+            "runtime": 0.36771321296691895,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -639,7 +639,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)C(=C)[C@H](OC(C)=O)[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.30944275856018066,
+            "runtime": 0.33974599838256836,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -751,7 +751,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)[C@H](C)C[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.32450437545776367,
+            "runtime": 0.3488650321960449,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -853,7 +853,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@H](C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)C(C)(O)CO)[C@@H]12)O3",
-            "runtime": 0.35118865966796875,
+            "runtime": 0.3763396739959717,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -955,7 +955,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@H](C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)C4(C)CO4)[C@@H]12)O3",
-            "runtime": 0.32328319549560547,
+            "runtime": 0.3603081703186035,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1057,7 +1057,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)[C@@H](C)C[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.3459656238555908,
+            "runtime": 0.3619682788848877,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1159,7 +1159,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@H](C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)C(C)(CO)OC(C)=O)[C@@H]12)O3",
-            "runtime": 0.6460165977478027,
+            "runtime": 0.3628830909729004,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1271,7 +1271,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@H](C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)C(C)(O)COC(C)=O)[C@@H]12)O3",
-            "runtime": 0.3503236770629883,
+            "runtime": 0.35309576988220215,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1383,7 +1383,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@@H](C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C/C)[C@@H]12)O3",
-            "runtime": 0.30527329444885254,
+            "runtime": 0.3621654510498047,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1490,7 +1490,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@@H](C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.29494547843933105,
+            "runtime": 0.3831007480621338,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1597,7 +1597,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@@H]1CC2(C)OC(=CC2=O)/C(C)=C\\[C@@H]2OC(=O)[C@@](O)(CO)[C@@H]21",
-            "runtime": 0.30240464210510254,
+            "runtime": 0.36711812019348145,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1699,7 +1699,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)/C(C)=C\\[C@@H]2OC(=O)[C@H](CC)[C@@H]21",
-            "runtime": 0.3626835346221924,
+            "runtime": 0.3789958953857422,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1806,7 +1806,7 @@
         },
         {
             "smiles": "C/C1=C/[C@@H]2OC(=O)[C@@H](C)[C@@H]2[C@@H](O)C[C@@]2(C)OC1=CC2=O",
-            "runtime": 0.30880236625671387,
+            "runtime": 0.3296797275543213,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1888,7 +1888,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)/C(C)=C\\[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.2918698787689209,
+            "runtime": 0.4087557792663574,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -1990,7 +1990,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/COC(C)=O)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.2932248115539551,
+            "runtime": 0.41440868377685547,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2107,7 +2107,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)/C(COC(C)=O)=C\\[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.2943582534790039,
+            "runtime": 0.3650949001312256,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2219,7 +2219,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)C4(C)CO4)[C@@H]12)O3",
-            "runtime": 0.2957751750946045,
+            "runtime": 0.3664886951446533,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2321,7 +2321,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@@H](OCC(C)C)[C@H]12",
-            "runtime": 0.2972984313964844,
+            "runtime": 0.594505786895752,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2423,7 +2423,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@H](C)C3=CC(=O)[C@](C)(O3)[C@H](O)[C@@H](OC(=O)CC(C)C)[C@@H]12",
-            "runtime": 0.2965090274810791,
+            "runtime": 0.40952491760253906,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2530,7 +2530,7 @@
         },
         {
             "smiles": "C/C=C(/C)C(=O)O[C@@H]1C[C@@]2(C)OC(=CC2=O)[C@H](C)C[C@H]2OC(=O)[C@H](C)[C@H]12",
-            "runtime": 0.29567837715148926,
+            "runtime": 0.36598944664001465,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2637,7 +2637,7 @@
         },
         {
             "smiles": "C/C=C(/C)C(=O)O[C@@H]1C[C@@]2(C)OC(=CC2=O)[C@H](CO)C[C@H]2OC(=O)[C@H](C)[C@H]12",
-            "runtime": 0.29533886909484863,
+            "runtime": 0.3785972595214844,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2744,7 +2744,7 @@
         },
         {
             "smiles": "C/C=C(/C)C(=O)O[C@@H]1C[C@@]2(C)OC(=CC2=O)[C@H](CO)C[C@H]2OC(=O)[C@@H](C)[C@H]12",
-            "runtime": 0.2995567321777344,
+            "runtime": 0.35462164878845215,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2851,7 +2851,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@@H](CO)C3=CC(=O)[C@@](C)(C[C@@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.2995593547821045,
+            "runtime": 0.33175015449523926,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -2958,7 +2958,7 @@
         },
         {
             "smiles": "C=C1C2=CC(=O)[C@@](C)(C[C@@H]3OC(=O)C(=C)[C@H]3[C@H](OC(=O)/C(C)=C\\C)[C@@H]1O)O2",
-            "runtime": 0.381791353225708,
+            "runtime": 0.3680586814880371,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3065,7 +3065,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@H]2[C@@H](OC(=O)C(C)C)C[C@@]3(C)OC(=CC3=O)[C@@H](C)[C@H](O)[C@H]12",
-            "runtime": 0.36877894401550293,
+            "runtime": 0.3580296039581299,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3167,7 +3167,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)[C@@H](C)[C@H](O)[C@@H]2C(=C)C(=O)O[C@@H]12",
-            "runtime": 0.38771939277648926,
+            "runtime": 0.35698461532592773,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3269,7 +3269,7 @@
         },
         {
             "smiles": "C=C1C2=CC(=O)[C@@](C)(C[C@@H]3OC(=O)C(=C)[C@H]3[C@H](OC(=O)/C(C)=C\\C)[C@H]1O)O2",
-            "runtime": 0.3314952850341797,
+            "runtime": 0.3468642234802246,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3376,7 +3376,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@@H]1CC(=C)C2=CC(=O)[C@@](C)(CC3OC(=O)C(=C)C31)O2",
-            "runtime": 0.34493017196655273,
+            "runtime": 0.38300204277038574,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3478,7 +3478,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)C4(C)OC4C)[C@@H]12)O3",
-            "runtime": 0.608443021774292,
+            "runtime": 0.3557283878326416,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3585,7 +3585,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C/C)[C@@H]12)O3",
-            "runtime": 0.3946385383605957,
+            "runtime": 0.36336660385131836,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3692,7 +3692,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)C(C)(O)C(C)O)[C@@H]12)O3",
-            "runtime": 0.43169379234313965,
+            "runtime": 0.3675415515899658,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3799,7 +3799,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)C(C)C[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.2990880012512207,
+            "runtime": 0.36492013931274414,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -3901,7 +3901,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2C[C@H](C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C\\C)C12)O3",
-            "runtime": 0.36840248107910156,
+            "runtime": 0.32970094680786133,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4008,7 +4008,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)C3=CC(=O)[C@](C)(O3)[C@H](O)[C@@H](OC(=O)C(C)CC)[C@@H]12",
-            "runtime": 0.3812723159790039,
+            "runtime": 0.3661060333251953,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4115,7 +4115,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/C)C3=CC(=O)[C@](C)(O3)[C@H](O)[C@@H](OC(=O)C(C)C)[C@@H]12",
-            "runtime": 0.33022189140319824,
+            "runtime": 0.36403751373291016,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4217,7 +4217,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/CO)C3=CC(=O)[C@@](C)(C[C@@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.35675787925720215,
+            "runtime": 0.3626515865325928,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4324,7 +4324,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/CO)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.3807501792907715,
+            "runtime": 0.33310914039611816,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4431,7 +4431,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)/C(CO)=C\\[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.3251676559448242,
+            "runtime": 0.35649943351745605,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4533,7 +4533,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)/C(COC(C)=O)=C\\[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.3168158531188965,
+            "runtime": 0.36357975006103516,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4645,7 +4645,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)C(=C)[C@@H](OC(C)=O)[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.5622720718383789,
+            "runtime": 0.36827683448791504,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4757,7 +4757,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/CO)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C\\C)[C@@H]12)O3",
-            "runtime": 0.3734402656555176,
+            "runtime": 0.4485294818878174,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4864,7 +4864,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2/C=C(/CO)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C/C)[C@@H]12)O3",
-            "runtime": 0.30779433250427246,
+            "runtime": 0.37752532958984375,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -4971,7 +4971,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)[C@H](C)[C@H](CC(=C)C(=O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@H]3OC(=O)C(=C)[C@H]23)[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.3045487403869629,
+            "runtime": 0.3824188709259033,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5168,7 +5168,7 @@
         },
         {
             "smiles": "C=C1C(=O)O[C@@H]2CC(C)C3=CC(=O)[C@@](C)(C[C@H](OC(=O)/C(C)=C/C)[C@@H]12)O3",
-            "runtime": 0.298384428024292,
+            "runtime": 0.3892185688018799,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5275,7 +5275,7 @@
         },
         {
             "smiles": "C=C(C)C(=O)O[C@@H]1C[C@@]2(C)OC(=CC2=O)[C@H](C)C[C@H]2OC(=O)C(=C)[C@H]12",
-            "runtime": 0.2946476936340332,
+            "runtime": 0.3622303009033203,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5377,7 +5377,7 @@
         },
         {
             "smiles": "C/C=C(\\C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(COC(C)=O)=C\\[C@@H]3OC(=O)[C@@]1(C)[C@@H]32",
-            "runtime": 0.3017451763153076,
+            "runtime": 0.3417074680328369,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5494,7 +5494,7 @@
         },
         {
             "smiles": "CC(C)[C@@]1(O)O[C@H]2CC3(C)OC(=CC3=O)[C@@H](C)C[C@H]3OC(=O)[C@@]1(C)[C@H]23",
-            "runtime": 0.2980666160583496,
+            "runtime": 0.35617995262145996,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5596,7 +5596,7 @@
         },
         {
             "smiles": "C=C(C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)[C@H](C)C[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.3067452907562256,
+            "runtime": 0.3734571933746338,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5698,7 +5698,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(OCC)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(CO)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.3015296459197998,
+            "runtime": 0.3620431423187256,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5815,7 +5815,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.2963449954986572,
+            "runtime": 0.36213111877441406,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -5922,7 +5922,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(OC)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.3105039596557617,
+            "runtime": 0.3639492988586426,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6034,7 +6034,7 @@
         },
         {
             "smiles": "CC(C)[C@@]1(O)O[C@H]2CC3(C)OC(=CC3=O)[C@H](C)[C@H](O)[C@@H]3OC(=O)[C@@]1(C)[C@H]23",
-            "runtime": 0.3094043731689453,
+            "runtime": 0.3573436737060547,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6136,7 +6136,7 @@
         },
         {
             "smiles": "C=C(C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)[C@@H](C)C[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.31525301933288574,
+            "runtime": 0.3619511127471924,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6238,7 +6238,7 @@
         },
         {
             "smiles": "C/C=C(\\C)C(=O)O[C@H]1C[C@@]2(C)OC(=CC2=O)[C@@H](C)C[C@H]2OC(=O)[C@@H](C)[C@H]12",
-            "runtime": 0.3214075565338135,
+            "runtime": 0.3665633201599121,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6345,7 +6345,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(OC)O[C@H]2C[C@@]3(C)OC(=CC3=O)[C@@H](C)C[C@H]3OC(=O)[C@@]1(C)[C@H]23",
-            "runtime": 0.3120265007019043,
+            "runtime": 0.37418627738952637,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6457,7 +6457,7 @@
         },
         {
             "smiles": "C[C@H]1C[C@H]2OC(=O)[C@@]3(C)C2[C@H](C[C@@]2(C)OC1=CC2=O)O[C@]3(O)[C@@]1(C)CO1",
-            "runtime": 0.2956726551055908,
+            "runtime": 0.36374783515930176,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6559,7 +6559,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(COC(C)=O)=C\\[C@@H]3OC(=O)[C@@]1(C)[C@@H]32",
-            "runtime": 0.31435394287109375,
+            "runtime": 0.3370182514190674,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6676,7 +6676,7 @@
         },
         {
             "smiles": "CCC(C)[C@@]1(O)O[C@H]2CC3(C)OC(=CC3=O)/C(COC(C)=O)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.30297374725341797,
+            "runtime": 0.36292552947998047,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6793,7 +6793,7 @@
         },
         {
             "smiles": "C=C(C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(COC(C)=O)=C\\[C@@H]3OC(=O)[C@@]1(C)[C@@H]32",
-            "runtime": 0.3198072910308838,
+            "runtime": 0.3938028812408447,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -6905,7 +6905,7 @@
         },
         {
             "smiles": "C/C=C(\\C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(CO)=C\\[C@@H]3OC(=O)[C@@]1(C)[C@@H]32",
-            "runtime": 0.29799413681030273,
+            "runtime": 0.35916781425476074,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7012,7 +7012,7 @@
         },
         {
             "smiles": "CCC(C)[C@@]1(O)O[C@H]2CC3(C)OC(=CC3=O)/C(CO)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.29654955863952637,
+            "runtime": 0.3550887107849121,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7119,7 +7119,7 @@
         },
         {
             "smiles": "C=C(C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(CO)=C\\[C@@H]3OC(=O)[C@@]1(C)[C@@H]32",
-            "runtime": 0.29256677627563477,
+            "runtime": 0.33792591094970703,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7221,7 +7221,7 @@
         },
         {
             "smiles": "C/C1=C/[C@@H]2OC(=O)[C@@]3(C)[C@@H]2[C@H](C[C@@]2(C)OC1=CC2=O)O[C@]3(O)C(C)(O)C(C)O",
-            "runtime": 0.29860544204711914,
+            "runtime": 0.6181519031524658,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7328,7 +7328,7 @@
         },
         {
             "smiles": "C/C1=C/[C@@H]2OC(=O)[C@@]3(C)[C@@H]2[C@H](C[C@@]2(C)OC1=CC2=O)O[C@]3(O)C1(C)OC1C",
-            "runtime": 0.30040907859802246,
+            "runtime": 0.347900390625,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7435,7 +7435,7 @@
         },
         {
             "smiles": "C/C1=C/[C@H]2OC(=O)[C@@]3(C)C2[C@H](C[C@@]2(C)OC1=CC2=O)O[C@]3(O)C1(C)OC1C",
-            "runtime": 0.32597947120666504,
+            "runtime": 0.3707237243652344,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7542,7 +7542,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.29837965965270996,
+            "runtime": 0.3547828197479248,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7649,7 +7649,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.29871273040771484,
+            "runtime": 0.35178089141845703,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7756,7 +7756,7 @@
         },
         {
             "smiles": "C/C=C(\\C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)[C@@H](C)C[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.29923105239868164,
+            "runtime": 0.4288203716278076,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7863,7 +7863,7 @@
         },
         {
             "smiles": "C=C(C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)[C@@H](C)C[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.2954680919647217,
+            "runtime": 0.37947750091552734,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -7965,7 +7965,7 @@
         },
         {
             "smiles": "CC(C)[C@@]1(O)O[C@H]2C[C@@]3(C)OC(=CC3=O)[C@@H](C)C[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.30040764808654785,
+            "runtime": 0.39935827255249023,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -8067,7 +8067,7 @@
         },
         {
             "smiles": "C/C=C(/C)[C@@]1(OCC)O[C@H]2C[C@@]3(C)OC(=CC3=O)/C(C)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.29843568801879883,
+            "runtime": 0.4041285514831543,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -8184,7 +8184,7 @@
         },
         {
             "smiles": "C/C1=C/[C@@H]2OC(=O)[C@@]3(C)[C@@H]2[C@H](CC2(C)OC1=CC2=O)O[C@]3(O)C(C)C",
-            "runtime": 0.29550790786743164,
+            "runtime": 0.372753381729126,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -8286,7 +8286,7 @@
         },
         {
             "smiles": "C=C1C2=CC(=O)C(C)(C[C@@H]3O[C@](O)(C(C)CC)[C@@](C)(C(=O)O)C3[C@H](O)[C@H]1O)O2",
-            "runtime": 0.3042633533477783,
+            "runtime": 0.35553789138793945,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -8393,7 +8393,7 @@
         },
         {
             "smiles": "C/C1=C/[C@H]2OC(=O)[C@@]3(C)C2[C@H](CC2(C)OC1=CC2=O)O[C@]3(O)C(C)C",
-            "runtime": 0.2933506965637207,
+            "runtime": 0.3718130588531494,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -8495,7 +8495,7 @@
         },
         {
             "smiles": "CCC(C)[C@@]1(O)O[C@H]2CC3(C)OC(=CC3=O)/C(C)=C\\[C@H]3OC(=O)[C@@]1(C)C23",
-            "runtime": 0.29773592948913574,
+            "runtime": 0.38667893409729004,
             "shifts": [
                 {
                     "atom_idx": 0,
@@ -8608,9 +8608,9 @@
         ],
         "model_checkpoint_filename": "models/default_13C.checkpoint",
         "model_meta_filename": "models/default_13C.meta",
-        "ts_start": "2020-07-15T20:42:15.159361",
-        "ts_end": "2020-07-15T20:42:42.658925",
-        "runtime_sec": 27.499564170837402,
+        "ts_start": "2020-08-27T18:19:51.676786",
+        "ts_end": "2020-08-27T18:20:21.943369",
+        "runtime_sec": 30.26658320426941,
         "use_cuda": false
     }
 }

@@ -1,41 +1,41 @@
 ID	smiles	name	distance	standard deviation	matching rate (HSQC)	
-1	CC[C@H](C)[C@@H](C(=O)O)N	L-Isoleucine 	0.01	0.99	5/5	100.00%
-2	C([C@@H]1[C@H]([C@H]([C@H](n2cnc3c(N)ncnc23)O1)O)O)O	Adenosine 	0.03	1.00	4/7	57.14%
-3	c1ccc2c(c1)c(C[C@@H](C(=O)O)N)c[nH]2	L-Tryptophan 	0.01	0.84	6/7	85.71%
-4	C(CCN)C[C@@H](C(=O)O)N	Lysine 	0.00	0.81	5/5	100.00%
-5	c1ccc(cc1)C[C@@H](C(=O)O)N	L-Phenylalanine 	0.00	0.74	5/5	100.00%
-6	C(CC(=O)O)[C@@H](C(=O)O)N	L-Glutamic acid 	0.00	0.71	3/3	100.00%
-7	CCC(CO)O	2-Butanediol 	0.00	0.71	4/4	100.00%
-8	C([C@@H]([C@@H](CO)O)O)O	meso-Erythritol 	0.00	0.70	3/3	100.00%
-9	C[C@@H](C(=O)O)N	Alanine 	0.01	0.71	2/2	100.00%
-10	C([C@H](C(=O)O)N)C(=O)O	D-Aspartate 	0.01	0.70	3/2	150.00%
-11	C(C(=O)O)N	Glycine 	0.01	0.70	1/1	100.00%
-12	CC(=N[C@@H](Cc1ccc(cc1)O)C(=O)O)O	N-acetyl-tyrosine 	0.02	0.70	3/6	50.00%
-13	C([C@@H](C(=O)O)N)C(=N)O	L-Asparagine 	0.02	0.70	2/2	100.00%
-14	c1cnc(nc1O)O	Uracil 	0.02	0.70	1/2	50.00%
-15	CC(C(=O)O)O	Lactic acid 	0.00	0.35	2/2	100.00%
-16	C(CC(=O)O)CN	gamma-Aminobutyric acid 	0.00	0.35	3/3	100.00%
-17	C[C@H]([C@@H](C(=O)O)N)O	L-Threonine 	0.00	0.35	3/3	100.00%
-18	C1C[C@@H](C(=O)O)NC1	L-Proline 	0.01	0.35	3/4	75.00%
-19	C(C[C@@H](C(=O)O)N)CNC(=N)N	L-Arginine 	0.00	0.28	4/4	100.00%
-20	CCO	Ethanol 	0.00	0.25	2/2	100.00%
-21	CC(C)CC(C(=O)O)N	Leucine 	0.00	0.25	5/5	100.00%
-22	CC(C)C[C@@H](C(=O)O)N=C(CN)O	Glycyl L-Leucine	0.01	0.25	5/6	83.33%
-23	c1cc(ccc1C[C@@H](C(=O)O)N)O	L-Tyrosine 	0.02	0.25	4/6	66.67%
-24	C(CCNC(=N)O)C[C@@H](C(=O)O)N	L-Homocitrulline 	0.01	0.24	4/5	80.00%
-25	C([C@@H](C([C@@H](CO)O)O)O)O	Adonitol 	0.00	0.23	5/5	100.00%
-26	CC(C)[C@@H](C(=O)O)N	L-Valine 	0.00	0.18	3/3	100.00%
-27	C([C@@H]1[C@H]([C@@H]([C@H](C(O)O1)O)O)O)O	D-Glucose 	0.01	0.17	5/6	83.33%
-28	C([C@@H]([C@@H]1C(=O)C(=O)C(=O)O1)O)O	Dehydroascorbic acid 	0.03	0.18	2/3	66.67%
-29	C([C@@H](C(=O)O)N)O	L-Serine 	0.00	0.14	2/2	100.00%
-30	C[C@@H]([C@H](C(=O)O)N)OP(=O)(O)O	O-phospho-threonine 	0.03	0.14	2/3	66.67%
-31	C(CCN)CN	Putrescine 	0.02	0.10	2/4	50.00%
-32	C(C(CO)O)O	Glycerol 	0.00	0.08	2/2	100.00%
-33	C(COP(=O)(O)O)N	Phosphoethanolamine 	0.00	0.05	2/2	100.00%
-34	C(CN)CN	1,3-Diaminopropane 	0.01	0.04	1/2	50.00%
-35	C1(C(C(C(C(C1O)O)O)O)O)O	myo-Inositol 	0.00	0.01	3/3	100.00%
-36	C(C(=O)CO)O	Dihydroxyacetone 	0.01	0.01	2/2	100.00%
-37	CC(=O)O	Acetic acid 	0.02	0.01	1/1	100.00%
-38	C[N+](C)(C)CCOP(=O)([O-])OC[C@@H](CO)O	Glycerophosphocholine 	0.56	0.25	3/8	37.50%
-39	C[N+](C)(C)CC(=O)[O-]	Betaine 	0.93	0.00	0/2	0.00%
-40	C[N+](C)(C)CCO	Choline 	1.00	0.00	0/4	0.00%
+1	CC[C@H](C)[C@@H](C(=O)O)N	L-Isoleucine 	0.00	0.99	5/5	100.00%
+2	C([C@@H]1[C@H]([C@H]([C@H](n2cnc3c(N)ncnc23)O1)O)O)O	Adenosine 	0.02	1.00	4/7	57.14%
+3	c1ccc2c(c1)c(C[C@@H](C(=O)O)N)c[nH]2	L-Tryptophan 	0.01	0.81	5/7	71.43%
+4	c1ccc(cc1)C[C@@H](C(=O)O)N	L-Phenylalanine 	0.00	0.74	5/5	100.00%
+5	C(CC(=O)O)[C@@H](C(=O)O)N	L-Glutamic acid 	0.00	0.71	3/3	100.00%
+6	CC(=N[C@@H](Cc1ccc(cc1)O)C(=O)O)O	N-acetyl-tyrosine 	0.01	0.72	3/5	60.00%
+7	CCC(CO)O	2-Butanediol 	0.00	0.70	4/4	100.00%
+8	C(CCN)C[C@@H](C(=O)O)N	Lysine 	0.00	0.70	4/5	80.00%
+9	C(C(=O)O)N	Glycine 	0.01	0.70	1/1	100.00%
+10	C(CCNC(=N)O)C[C@@H](C(=O)O)N	L-Homocitrulline 	0.00	0.44	5/5	100.00%
+11	C[C@@H]([C@H](C(=O)O)N)OP(=O)(O)O	O-phospho-threonine 	0.00	0.39	3/3	100.00%
+12	C(CC(=O)O)CN	gamma-Aminobutyric acid 	0.00	0.35	3/3	100.00%
+13	CC(C(=O)O)O	Lactic acid 	0.00	0.35	2/2	100.00%
+14	C[C@@H](C(=O)O)N	Alanine 	0.02	0.35	1/2	50.00%
+15	C(C[C@@H](C(=O)O)N)CNC(=N)N	L-Arginine 	0.00	0.28	4/4	100.00%
+16	CCO	Ethanol 	0.00	0.25	2/2	100.00%
+17	C([C@@H]1[C@H]([C@@H]([C@H](C(O)O1)O)O)O)O	D-Glucose 	0.01	0.25	5/6	83.33%
+18	CC(C)CC(C(=O)O)N	Leucine 	0.00	0.25	5/5	100.00%
+19	c1cc(ccc1C[C@@H](C(=O)O)N)O	L-Tyrosine 	0.01	0.25	4/6	66.67%
+20	C([C@@H](C([C@@H](CO)O)O)O)O	Adonitol 	0.00	0.23	4/4	100.00%
+21	C(CCN)CN	Putrescine 	0.01	0.24	3/3	100.00%
+22	C([C@@H](C(=O)O)N)O	L-Serine 	0.00	0.19	2/2	100.00%
+23	C1C[C@@H](C(=O)O)NC1	L-Proline 	0.01	0.19	3/4	75.00%
+24	C[C@H]([C@@H](C(=O)O)N)O	L-Threonine 	0.00	0.18	3/3	100.00%
+25	CC(C)[C@@H](C(=O)O)N	L-Valine 	0.00	0.18	3/3	100.00%
+26	CC(C)C[C@@H](C(=O)O)N=C(CN)O	Glycyl L-Leucine	0.00	0.17	5/5	100.00%
+27	C(C(CO)O)O	Glycerol 	0.00	0.08	2/2	100.00%
+28	C([C@H](C(=O)O)N)C(=O)O	D-Aspartate 	0.00	0.08	2/2	100.00%
+29	C([C@@H]([C@@H]1C(=O)C(=O)C(=O)O1)O)O	Dehydroascorbic acid 	0.00	0.08	3/3	100.00%
+30	C(COP(=O)(O)O)N	Phosphoethanolamine 	0.00	0.05	2/2	100.00%
+31	C(CN)CN	1,3-Diaminopropane 	0.01	0.04	1/2	50.00%
+32	C1(C(C(C(C(C1O)O)O)O)O)O	myo-Inositol 	0.00	0.01	3/3	100.00%
+33	C([C@@H](C(=O)O)N)C(=N)O	L-Asparagine 	0.00	0.01	2/2	100.00%
+34	C([C@@H]([C@@H](CO)O)O)O	meso-Erythritol 	0.00	0.01	2/2	100.00%
+35	CC(=O)O	Acetic acid 	0.01	0.01	1/1	100.00%
+36	C(C(=O)CO)O	Dihydroxyacetone 	0.02	0.00	1/2	50.00%
+37	c1cnc(nc1O)O	Uracil 	0.04	0.00	0/2	0.00%
+38	C[N+](C)(C)CCOP(=O)([O-])OC[C@@H](CO)O	Glycerophosphocholine 	0.31	0.17	5/8	62.50%
+39	C[N+](C)(C)CCO	Choline 	0.82	0.00	0/4	0.00%
+40	C[N+](C)(C)CC(=O)[O-]	Betaine 	1.00	0.00	0/2	0.00%

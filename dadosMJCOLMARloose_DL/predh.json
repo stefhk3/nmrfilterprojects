@@ -2,7 +2,7 @@
     "predictions": [
         {
             "smiles": "CC(=O)O",
-            "runtime": 0.21910548210144043,
+            "runtime": 0.3248453140258789,
             "shifts": [
                 {
                     "atom_idx": 4,
@@ -29,7 +29,7 @@
         },
         {
             "smiles": "C[C@H](N)C(=O)O",
-            "runtime": 0.19497418403625488,
+            "runtime": 0.31483006477355957,
             "shifts": [
                 {
                     "atom_idx": 6,
@@ -71,7 +71,7 @@
         },
         {
             "smiles": "NCCCC(=O)O",
-            "runtime": 0.193650484085083,
+            "runtime": 0.29728007316589355,
             "shifts": [
                 {
                     "atom_idx": 7,
@@ -123,7 +123,7 @@
         },
         {
             "smiles": "NCCOP(=O)(O)O",
-            "runtime": 0.20978927612304688,
+            "runtime": 0.33930468559265137,
             "shifts": [
                 {
                     "atom_idx": 8,
@@ -170,7 +170,7 @@
         },
         {
             "smiles": "N[C@H](CC(=O)O)C(=O)O",
-            "runtime": 0.19236207008361816,
+            "runtime": 0.32538628578186035,
             "shifts": [
                 {
                     "atom_idx": 9,
@@ -212,7 +212,7 @@
         },
         {
             "smiles": "O=C(CO)CO",
-            "runtime": 0.19505882263183594,
+            "runtime": 0.3682882785797119,
             "shifts": [
                 {
                     "atom_idx": 6,
@@ -249,7 +249,7 @@
         },
         {
             "smiles": "OC[C@H](O)C(O)[C@H](O)CO",
-            "runtime": 0.21119904518127441,
+            "runtime": 0.5704677104949951,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -316,7 +316,7 @@
         },
         {
             "smiles": "N=C(N)NCCC[C@H](N)C(=O)O",
-            "runtime": 0.1957240104675293,
+            "runtime": 0.2571835517883301,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -393,7 +393,7 @@
         },
         {
             "smiles": "N=C(O)C[C@H](N)C(=O)O",
-            "runtime": 0.19750642776489258,
+            "runtime": 0.2637803554534912,
             "shifts": [
                 {
                     "atom_idx": 9,
@@ -440,7 +440,7 @@
         },
         {
             "smiles": "C[N+](C)(C)CC(=O)[O-]",
-            "runtime": 0.19286465644836426,
+            "runtime": 0.3340747356414795,
             "shifts": [
                 {
                     "atom_idx": 8,
@@ -502,7 +502,7 @@
         },
         {
             "smiles": "C[N+](C)(C)CCO",
-            "runtime": 0.2011549472808838,
+            "runtime": 0.26377058029174805,
             "shifts": [
                 {
                     "atom_idx": 7,
@@ -579,7 +579,7 @@
         },
         {
             "smiles": "NCCCN",
-            "runtime": 0.19687175750732422,
+            "runtime": 0.34569764137268066,
             "shifts": [
                 {
                     "atom_idx": 5,
@@ -636,7 +636,7 @@
         },
         {
             "smiles": "OC[C@H](O)[C@H](O)CO",
-            "runtime": 0.1925816535949707,
+            "runtime": 0.2485203742980957,
             "shifts": [
                 {
                     "atom_idx": 8,
@@ -693,7 +693,7 @@
         },
         {
             "smiles": "CCO",
-            "runtime": 0.19153141975402832,
+            "runtime": 0.23859834671020508,
             "shifts": [
                 {
                     "atom_idx": 3,
@@ -730,7 +730,7 @@
         },
         {
             "smiles": "OCC(O)CO",
-            "runtime": 0.19475483894348145,
+            "runtime": 0.259066104888916,
             "shifts": [
                 {
                     "atom_idx": 6,
@@ -777,7 +777,7 @@
         },
         {
             "smiles": "NCC(=O)O",
-            "runtime": 0.19418716430664062,
+            "runtime": 0.25426721572875977,
             "shifts": [
                 {
                     "atom_idx": 5,
@@ -809,7 +809,7 @@
         },
         {
             "smiles": "OC[C@H]1OC(O)[C@H](O)[C@@H](O)[C@@H]1O",
-            "runtime": 0.19330406188964844,
+            "runtime": 0.5366640090942383,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -876,7 +876,7 @@
         },
         {
             "smiles": "N[C@@H](CCC(=O)O)C(=O)O",
-            "runtime": 0.19542503356933594,
+            "runtime": 0.4200479984283447,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -928,7 +928,7 @@
         },
         {
             "smiles": "CC[C@H](C)[C@H](N)C(=O)O",
-            "runtime": 0.21512746810913086,
+            "runtime": 0.9830002784729004,
             "shifts": [
                 {
                     "atom_idx": 9,
@@ -1000,7 +1000,7 @@
         },
         {
             "smiles": "OC1C(O)C(O)C(O)C(O)C1O",
-            "runtime": 0.19057393074035645,
+            "runtime": 0.3937835693359375,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -1067,7 +1067,7 @@
         },
         {
             "smiles": "CC(O)C(=O)O",
-            "runtime": 0.1934969425201416,
+            "runtime": 0.34713220596313477,
             "shifts": [
                 {
                     "atom_idx": 6,
@@ -1104,7 +1104,7 @@
         },
         {
             "smiles": "CC(C)CC(N)C(=O)O",
-            "runtime": 0.20537185668945312,
+            "runtime": 0.5078725814819336,
             "shifts": [
                 {
                     "atom_idx": 9,
@@ -1176,7 +1176,7 @@
         },
         {
             "smiles": "NCCCC[C@H](N)C(=O)O",
-            "runtime": 0.19243526458740234,
+            "runtime": 0.4898860454559326,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -1253,7 +1253,7 @@
         },
         {
             "smiles": "N[C@@H](Cc1ccccc1)C(=O)O",
-            "runtime": 0.19916486740112305,
+            "runtime": 0.612795352935791,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -1315,7 +1315,7 @@
         },
         {
             "smiles": "NCCCCN",
-            "runtime": 0.19009137153625488,
+            "runtime": 0.30316638946533203,
             "shifts": [
                 {
                     "atom_idx": 6,
@@ -1382,7 +1382,7 @@
         },
         {
             "smiles": "O=C(O)[C@@H]1CCCN1",
-            "runtime": 0.1910710334777832,
+            "runtime": 0.5185642242431641,
             "shifts": [
                 {
                     "atom_idx": 8,
@@ -1434,7 +1434,7 @@
         },
         {
             "smiles": "N[C@@H](CO)C(=O)O",
-            "runtime": 0.20369553565979004,
+            "runtime": 0.42596888542175293,
             "shifts": [
                 {
                     "atom_idx": 7,
@@ -1476,7 +1476,7 @@
         },
         {
             "smiles": "N[C@@H](Cc1ccc(O)cc1)C(=O)O",
-            "runtime": 0.19295096397399902,
+            "runtime": 0.7694892883300781,
             "shifts": [
                 {
                     "atom_idx": 13,
@@ -1538,7 +1538,7 @@
         },
         {
             "smiles": "C[C@@H](O)[C@H](N)C(=O)O",
-            "runtime": 0.19927382469177246,
+            "runtime": 0.6041631698608398,
             "shifts": [
                 {
                     "atom_idx": 8,
@@ -1590,7 +1590,7 @@
         },
         {
             "smiles": "Oc1ccnc(O)n1",
-            "runtime": 0.19968724250793457,
+            "runtime": 0.48982715606689453,
             "shifts": [
                 {
                     "atom_idx": 8,
@@ -1617,7 +1617,7 @@
         },
         {
             "smiles": "CC(C)[C@H](N)C(=O)O",
-            "runtime": 0.18891143798828125,
+            "runtime": 0.6109461784362793,
             "shifts": [
                 {
                     "atom_idx": 8,
@@ -1679,7 +1679,7 @@
         },
         {
             "smiles": "CCC(O)CO",
-            "runtime": 0.21418190002441406,
+            "runtime": 0.6104931831359863,
             "shifts": [
                 {
                     "atom_idx": 6,
@@ -1736,7 +1736,7 @@
         },
         {
             "smiles": "CC(O)=N[C@@H](Cc1ccc(O)cc1)C(=O)O",
-            "runtime": 0.2202296257019043,
+            "runtime": 0.7048318386077881,
             "shifts": [
                 {
                     "atom_idx": 16,
@@ -1808,7 +1808,7 @@
         },
         {
             "smiles": "N=C(O)NCCCC[C@H](N)C(=O)O",
-            "runtime": 0.20052504539489746,
+            "runtime": 0.43989062309265137,
             "shifts": [
                 {
                     "atom_idx": 13,
@@ -1890,7 +1890,7 @@
         },
         {
             "smiles": "Nc1ncnc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O",
-            "runtime": 0.1937882900238037,
+            "runtime": 0.3818173408508301,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -1962,7 +1962,7 @@
         },
         {
             "smiles": "C[C@H](OP(=O)(O)O)[C@@H](N)C(=O)O",
-            "runtime": 0.1955885887145996,
+            "runtime": 0.28203701972961426,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -2019,7 +2019,7 @@
         },
         {
             "smiles": "N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O",
-            "runtime": 0.1921679973602295,
+            "runtime": 0.25737619400024414,
             "shifts": [
                 {
                     "atom_idx": 15,
@@ -2086,7 +2086,7 @@
         },
         {
             "smiles": "O=C1O[C@H]([C@@H](O)CO)C(=O)C1=O",
-            "runtime": 0.20453095436096191,
+            "runtime": 0.22743511199951172,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -2123,7 +2123,7 @@
         },
         {
             "smiles": "C[N+](C)(C)CCOP(=O)([O-])OC[C@H](O)CO",
-            "runtime": 0.20075678825378418,
+            "runtime": 0.21665477752685547,
             "shifts": [
                 {
                     "atom_idx": 16,
@@ -2230,7 +2230,7 @@
         },
         {
             "smiles": "CC(C)C[C@H](N=C(O)CN)C(=O)O",
-            "runtime": 0.1947164535522461,
+            "runtime": 0.22110605239868164,
             "shifts": [
                 {
                     "atom_idx": 13,
@@ -2323,9 +2323,9 @@
         ],
         "model_checkpoint_filename": "models/default_1H.checkpoint",
         "model_meta_filename": "models/default_1H.meta",
-        "ts_start": "2020-06-14T19:53:54.455504",
-        "ts_end": "2020-06-14T19:54:02.710212",
-        "runtime_sec": 8.25470757484436,
+        "ts_start": "2020-08-27T13:16:10.926822",
+        "ts_end": "2020-08-27T13:16:27.582784",
+        "runtime_sec": 16.655962228775024,
         "use_cuda": false
     }
 }
