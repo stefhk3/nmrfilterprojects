@@ -1,0 +1,14 @@
+ID	smiles	name	distance	standard deviation	matching rate (HMBC)		matching rate (HSQC)	
+1	CC(=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C)C=CC=C(C)C=CC2=C(C)CCCC2(C)C	beta-carotene	0.04	1.00	45/73	61.64%	17/21	80.95%
+2	COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O	quinidine	0.02	0.96	51/57	89.47%	11/16	68.75%
+3	C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2	flavone	0.00	0.92	24/26	92.31%	7/9	77.78%
+4	CC(C)CCCC(C)C1CCC2C1(CCCC2=CC=C3CC(CCC3=C)O)C	cholecalciferol	0.02	0.94	69/86	80.23%	18/23	78.26%
+5	CC1=CC(=O)C2=C(C3=C(C(=C2O1)OC)OC=C3)OC	khellin	0.01	0.79	13/15	86.67%	5/6	83.33%
+6	CC(C)C1=CC=C(C=C1)CO	4-isopropylbenzyl alcohohol	0.02	0.58	9/15	60.00%	7/7	100.00%
+7	CC1=CC=CC(=C1O)C=O	methylsalicyladehyde	0.63	0.89	14/17	82.35%	3/5	60.00%
+8	NC(C(O)=O)CC1=CC(O)=C(O)C=C1	L-DOPA	0.07	0.22	4/17	23.53%	1/5	20.00%
+9	CN1C2CCC1CC(C2)O	tropine	0.02	0.17	11/21	52.38%	5/8	62.50%
+10	NCCC1=CC(O)=C(O)C=C1	dopamine	0.04	0.17	4/16	25.00%	1/5	20.00%
+11	O=C(C(O)=O)CC1=CC=C(O)C=C1	4-Hydroxyphenyl-pyruvic acid	0.08	0.15	4/8	50.00%	2/3	66.67%
+12	OC1=CC=C(C[C@H](N)C(O)=O)C=C1	L-Tyrosine	0.08	0.14	3/11	27.27%	1/5	20.00%
+13	OC1=CC=C(CC=O)C=C1	4-hydroxyphenyl-acetaldehyde	1.00	0.00	3/9	33.33%	1/4	25.00%
