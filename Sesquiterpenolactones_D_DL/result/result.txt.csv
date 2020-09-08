@@ -1,81 +1,81 @@
-ID	smiles	name	distance	standard deviation	matching rate (HSQC)	
-1	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C[C@H]1[C@H](C3=CC(=O)[C@@](C[C@@H]([C@@H]4[C@@H]1OC(=O)C4=C)OC(=O)C(=C)C)(O3)C)C)C(=C)C(=O)O2)/C	rufescenolide C 	0.00		0/23	0.00%
-2	C\1(=C\[C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C(O)C)OC(=O)C2=C)/C	 6α-[2'-(1')-hydroxyethylacryloyloxyl]-goyazensanolide	0.67		0/12	0.00%
-3	C\1(=C\[C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/CO)OC(=O)C2=C)/C	 6α-[5'-Hydroxytigloyloxy)-goyazensanolide	0.67		0/12	0.00%
-4	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/C	 lychnofolide 	0.67		0/12	0.00%
-5	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/C	(3aR,4S,6R,11aR,Z)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,11a-octahydro-6,9-epoxycyclodeca[b]furan-4-yl methacrylate	0.67		0/11	0.00%
-6	C1(=C)[C@@H]([C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)OC(=O)C	(3aR,4S,6R,11S,11aS)-11-acetoxy-6-methyl-3,10-dimethylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl methacrylate	0.67		0/12	0.00%
-7	[C@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	(3aS,4S,6R,10R,11aR)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl methacrylate	0.67		0/12	0.00%
-8	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(CO)(O)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-1-0xo-3.10-epoxy-8-(2.3-dihydroxypropanoyloxy)-germacra-2.11(13)-dien-6.12-olide	0.67		0/12	0.00%
-9	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(OC1)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-1-Oxo-3.10-epoxy-8-(2.3-epoxtypropanoyl-oxy)-germacra-2.11(13)-diene-6.12-oIide 	0.67		0/12	0.00%
-10	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-1-Oxo-3.10-epoxy-8-methacryloxygermacra-2.11(13)-dien-6.12-olide 	0.67		0/12	0.00%
-11	C\1(=C\[C@@H]2[C@@H]([C@@H](CC3(C(=O)C=C1O3)C)OC(=O)C(=C)C)[C@](C(=O)O2)(O)CO)/C	11.13-Dihydroxy-calaxin	0.67		0/11	0.00%
-12	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)O)[C@@H](C(=O)O2)C)/C	11β.13-dihydro-8α-hydroxy-goyazensanolide	0.67		0/10	0.00%
-13	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/C	15-deoxygoyazensolide	0.67		0/11	0.00%
-14	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/COC(=O)C	1-Oxo-3.10-epoxy-8-metacriloxy-15-acetoxygermacra-2.4.11(13)-trien-6(12)-oIide 	0.67		0/12	0.00%
-15	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(C)CO1)C(=C)C(=O)O2)/C	2'.3'-Epoxy-15-deoxygoyazensolide  	0.67		0/11	0.00%
-16	C\1(=C\[C@H]([C@H]2[C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OCC(C)C)/C	2’,3’-Dihydro-15-desoxygoyazensolide	0.67		0/12	0.00%
-17	C1(=C)[C@H]([C@H]([C@H]2[C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OC(=O)/C(=C\C)/C)O	5α-Hydroxy-6α-angeloyloxy-Δ-4.15-isogoyazensanolide	0.67		0/12	0.00%
-18	[C@@H]1([C@@H]([C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(C)C)OC(=O)C2=C)O)C	5β-Hydroxy-4.5.2'.3'tetrahydro-15-desoxygoyazensolide	0.67		0/12	0.00%
-19	[C@@H]1([C@@H]([C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)OC(=O)C2=C)O)C	5β-Hydroxy-4.5-dihydro-15-desoxygoyazensolide	0.67		0/12	0.00%
-20	C1(=C)[C@@H]([C@H]([C@H]2[C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OC(=O)/C(=C\C)/C)O	5β-Hydroxy-6α-angeloyloxy-Δ-4.15-isogoyazensanolide	0.67		0/12	0.00%
-21	C1(=C)C[C@H](C2C(C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OC(=O)C(=C)C	5β-Hydroxy-6α-methacryloyloxy-Δ4.15-iso-goyazensanolide	0.67		0/11	0.00%
-22	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(C)C(C)O1)C(=C)C(=O)O2)/C	6α-[2.3-Epoxybuttyryloxy]-goyazensolide	0.67		0/12	0.00%
-23	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)/C	6α-Tiglinoyloxy-goyazensolanolide	0.67		0/12	0.00%
-24	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(O)(C(O)C)C)C(=C)C(=O)O2)/C	8α-(2`.3`dihydroxi-2`-methylbutanoyl)-15-deoxygoyazensolideo	0.67		0/12	0.00%
-25	C1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	8α-[2-Methylacryloyloxy]-zexbrevanolide 	0.67		0/12	0.00%
-26	C\1(=C\[C@@H]2[C@@H]([C@@H]([C@H]([C@@]3(C(=O)C=C1O3)C)O)OC(=O)C(C)C)C(=C)C(=O)O2)/C	9a-Hydroxy-atripliciolide-8-O-isobutyrate 	0.67		0/12	0.00%
-27	C\1(=C\[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/CO	Budlein A	0.67		0/12	0.00%
-28	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/CO	centratherin	0.67		0/12	0.00%
-29	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/CO	goyazensolide	0.67		0/11	0.00%
-30	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/COC(=O)C	goyazensolide acetate	0.67		0/12	0.00%
-31	C1(=C)[C@H]([C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)OC(=O)C	isogoyazensolide  acetate	0.67		0/12	0.00%
-32	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/CO	Lychnophorolide A	0.67		0/12	0.00%
-33	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)/CO	Lychnophorolide B	0.67		0/12	0.00%
-34	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	zexbrevin	0.67		0/12	0.00%
-35	[C@@H]1(C[C@@H]2[C@H]3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)C	(2aS,2a1R,3R,4aS,10S,11aR)-3-hydroxy-3-isopropyl-2a,6,10-trimethyl-2a,3,4a,5,6,10,11,11a-octahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.67		0/11	0.00%
-36	[C@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)C	(2aS,3R,4aS,6R,10R,11aR)-3-hydroxy-2a,6,10-trimethyl-3-(prop-1-en-2-yl)-2a,3,4a,5,6,10,11,11a-octahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.67		0/11	0.00%
-37	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/C	(2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-hydroxy-2a,6,10-trimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.67		0/12	0.00%
-38	[C@H]1([C@@H]([C@@H]2[C@H]3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)O)C	(4R, 5S, 6S, 7S, 8S, 10R, 11S, 16R)-4,5-Dihydroeremantholide A	0.67		0/12	0.00%
-39	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)C	(4S,6R,7S,8S,10R,11lS,16R)-4,5-Dihydroeremantholide C 	0.67		0/11	0.00%
-40	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)[C@@]1(OC1)C)C	(4S,6R,7S,8S,10R,11S,16R,17R)-4,5-Dihydro-17,18-epoxyeremantholide C	0.67		0/11	0.00%
-41	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)/COC(=O)C	15-acetoxyeremantholide C 	0.67		0/12	0.00%
-42	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C/C)/C)/CO	15-Hydroxy-16α-(1-methylprop-1Z-enyl)-eremanthanolide	0.67		0/12	0.00%
-43	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)/CO	15-Hydroxyeremantholide C 	0.67		0/11	0.00%
-44	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)(C(C)O)O)/C	16α-(1', 2'-Dihydroxy-1'-methylpropyl)-eremantholide	0.67		0/12	0.00%
-45	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C1(C(C)O1)C)/C	16α-(1'-Methyl-1,2-poxypropyl)-eremanthanolide	0.67		0/12	0.00%
-46	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C1(C)C(O1)C)/C	16α-[1-Methyl-1,2-poxypropyl]-eremantholanolide	0.67		0/12	0.00%
-47	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/C	16α-[1'Methylprop-1E-enyl]-eremantholanolide	0.67		0/12	0.00%
-48	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/C	16α-[1-Methylprop-1Z-enyl]-eremantholanolide	0.67		0/12	0.00%
-49	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C/C)/C)C	16α-[Methylprop-1 Z-enyI]-4β,5H-eremantholanolide	0.67		0/12	0.00%
-50	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)C	16α-Isopropenyl-4β,5H-eremantholanolide	0.67		0/11	0.00%
-51	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)C	16α-Isopropyl-4β,5H-eremantholanolide	0.67		0/11	0.00%
-52	C\1(=C\[C@@H]2[C@H]3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)/C	composto 5	0.67		0/11	0.00%
-53	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)/C	eremantholide A	0.67		0/11	0.00%
-54	[C@@H]1([C@@H]([C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(C)C(O1)C)OC(=O)C2=C)O)C	 6α-(2'Methyl-2'. 3'-epoxybutyryloxy)-5'β-hydroxy-4(15)-goyazensanolide	1.00		0/13	0.00%
-55	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3([C@H](C[C@@H]1O3)O)CO)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/C	(-)-8α-Angeloxy-3α.10α-epoxy-1α.14-dihydroxygermacra-Z4-(5).11(13)-dien-6α.12-olide (furanonobilin)	1.00		0/14	0.00%
-56	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(CO)(OC(=O)C)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-Oxo-3.10-epoxy-8-(2-acetoxy-3-hydroxypropanoyloxy)-germacra-2.11l( 13)-diene-6.12-olide  	1.00		0/13	0.00%
-57	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(COC(=O)C)(O)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-Oxo-3.10-epoxy-8-(3-acetoxy-2-hydroxypropanoyloxy)-germacra-2.11l( 13)-diene-6.12-olide  	1.00		0/13	0.00%
-58	[C@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)C	(E)-(3aS,4S,6R,10R,11aR)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl 2-methylbut-2-enoate	1.00		0/13	0.00%
-59	[C@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)C	(Z)-(3aS,4S,6R,10R,11aR)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl 2-methylbut-2-enoate	1.00		0/13	0.00%
-60	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)[C@H](C(=O)O2)CC)/C	11α.13-dihydro-13-methoxy-15-deoxygoyazensolide	1.00		0/13	0.00%
-61	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/COC(=O)C	1-Oxo-3.10-epoxy-8-angeloxy-15-acetoxygermacra-2.4.11(13)-trien-6(12)-oIide 	1.00		0/13	0.00%
-62	[C@@H]1(C[C@@H]2[C@@H]([C@@H]([C@H]([C@@]3(C(=O)C=C1O3)C)O)OC(=O)CC(C)C)C(=C)C(=O)O2)C	4ß.5-Dihydro-9a-hydroxy-atripliciolide-8-0-isovalerate	1.00		0/14	0.00%
-63	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)[C@H](C(=O)O2)C)C	4α.5-11α.13-Tetrahydro-15-deoxybudlein A.derivado semisintetico	1.00		0/14	0.00%
-64	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)[C@H](C(=O)O2)C)CO	4α.5-11α.13-Tetrahydrobudlein A.  derivado semisintetico	1.00		0/14	0.00%
-65	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)[C@@H](C(=O)O2)C)CO	4α.5-11β.13-Tetrahydrobudlein A. derivado semisintetico	1.00		0/14	0.00%
-66	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)CO	4α.5-Dihydrobudlein A.   derivado semisintetico	1.00		0/13	0.00%
-67	[C@@H]1(C[C@@H]2C([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)C	8β-Angeloyloxy-zexbrevanolide 	1.00		0/13	0.00%
-68	C\1(=C\[C@@H]2[C@@H]([C@@H]([C@H]([C@@]3(C(=O)C=C1O3)C)O)OC(=O)C(CC)C)C(=C)C(=O)O2)/C	9a-Hydroxy-atripliciolide-8-O-2-methylbutyrate	1.00		0/13	0.00%
-69	C1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)C	Tiglinoyloxy-zexbrevanolide 	1.00		0/13	0.00%
-70	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C/C)/C)/COC(=O)C	((2aS,2a1R,3R,4aS,6R,11aR,Z)-3-((E)-but-2-en-2-yl)-3-hydroxy-2a,6-dimethyl-2,7-dioxo-2a,2a1,3,4a,5,6,7,11a-octahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalen-10-yl)methyl acetate	1.00		0/13	0.00%
-71	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OCC)/C(=C\C)/C)/CO	(2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-ethoxy-10-(hydroxymethyl)-2a,6-dimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	1.00		0/14	0.00%
-72	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OC)/C(=C\C)/C)/C	(2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-methoxy-2a,6,10-trimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	1.00		0/13	0.00%
-73	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)[C@@H](C(=O)O2)C)C	(4S,6R,7S,8S,10R,11S)-1-Oxo-3,10-epoxy-8-angeloyloxygermacra-2-en-6(12)-olide	1.00		0/14	0.00%
-74	[C@@H]1(C[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OC)/C(=C\C)/C)C	(4S,6R,7S,8S,10R,11S,16R)-1-Oxo-3(10),8(16)-diepoxy-16-methylprop-1Z-enyl-16-methoxygermacra-2-en-6(12)-olide	1.00		0/13	0.00%
-75	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/COC(=O)C	15-Acetoxy-16α-(1-methylprop-1Z-enyl)-eremanthanolide	1.00		0/13	0.00%
-76	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)CC)/COC(=O)C	15-acetoxyeremantholide B	1.00		0/14	0.00%
-77	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)CC)/CO	15-hydroxyeremantholide B	1.00		0/13	0.00%
-78	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OCC)/C(=C\C)/C)/C	2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-ethoxy-2a,6,10-trimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	1.00		0/14	0.00%
-79	C1(=C)[C@@H]([C@H](C2[C@H](CC3(C(=O)C=C1O3)C)O[C@]([C@@]2(C)C(=O)O)(O)C(C)CC)O)O	Dihydroxyacid	1.00		0/13	0.00%
-80	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(CC)C)/C	eremantholide B	1.00		0/13	0.00%
+ID	smiles	name	distance	standard deviation	matching rate (HMBC)		matching rate (HSQC)	
+1	[C@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)C	(E)-(3aS,4S,6R,10R,11aR)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl 2-methylbut-2-enoate	0.01	0.83	5/33	15.15%	5/13	38.46%
+2	[C@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)C	(Z)-(3aS,4S,6R,10R,11aR)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl 2-methylbut-2-enoate	0.01	0.83	5/33	15.15%	5/13	38.46%
+3	C1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)C	Tiglinoyloxy-zexbrevanolide 	0.01	0.83	5/33	15.15%	5/13	38.46%
+4	[C@@H]1([C@@H]([C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(C)C)OC(=O)C2=C)O)C	5β-Hydroxy-4.5.2'.3'tetrahydro-15-desoxygoyazensolide	0.02	0.83	3/30	10.00%	4/12	33.33%
+5	C\1(=C\[C@@H]2[C@@H]([C@@H]([C@H]([C@@]3(C(=O)C=C1O3)C)O)OC(=O)C(C)C)C(=C)C(=O)O2)/C	9a-Hydroxy-atripliciolide-8-O-isobutyrate 	0.24	1.00	2/29	6.90%	6/12	50.00%
+6	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)CC)/CO	15-hydroxyeremantholide B	0.12	0.84	4/35	11.43%	7/13	53.85%
+7	[C@@H]1(C[C@@H]2C([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)C	8β-Angeloyloxy-zexbrevanolide 	0.12	0.83	5/33	15.15%	5/13	38.46%
+8	[C@@H]1(C[C@@H]2[C@@H]([C@@H]([C@H]([C@@]3(C(=O)C=C1O3)C)O)OC(=O)CC(C)C)C(=C)C(=O)O2)C	4ß.5-Dihydro-9a-hydroxy-atripliciolide-8-0-isovalerate	0.03	0.72	6/34	17.65%	5/14	35.71%
+9	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)CC)/COC(=O)C	15-acetoxyeremantholide B	0.16	0.84	4/36	11.11%	7/14	50.00%
+10	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)[C@H](C(=O)O2)C)C	4α.5-11α.13-Tetrahydro-15-deoxybudlein A.derivado semisintetico	0.00	0.68	5/35	14.29%	5/14	35.71%
+11	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)[C@@H](C(=O)O2)C)C	(4S,6R,7S,8S,10R,11S)-1-Oxo-3,10-epoxy-8-angeloyloxygermacra-2-en-6(12)-olide	0.00	0.68	5/35	14.29%	5/14	35.71%
+12	C1(=C)[C@@H]([C@H](C2[C@H](CC3(C(=O)C=C1O3)C)O[C@]([C@@]2(C)C(=O)O)(O)C(C)CC)O)O	Dihydroxyacid	0.25	0.93	2/34	5.88%	8/13	61.54%
+13	[C@@H]1([C@@H]([C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(C)C(O1)C)OC(=O)C2=C)O)C	 6α-(2'Methyl-2'. 3'-epoxybutyryloxy)-5'β-hydroxy-4(15)-goyazensanolide	0.02	0.64	4/34	11.76%	3/13	23.08%
+14	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(CC)C)/C	eremantholide B	0.10	0.69	5/35	14.29%	6/13	46.15%
+15	[C@H]1([C@@H]([C@@H]2[C@H]3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)O)C	(4R, 5S, 6S, 7S, 8S, 10R, 11S, 16R)-4,5-Dihydroeremantholide A	0.12	0.68	0/33	0.00%	7/12	58.33%
+16	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)CO	4α.5-Dihydrobudlein A.   derivado semisintetico	0.14	0.65	3/33	9.09%	6/13	46.15%
+17	C\1(=C\[C@@H]2[C@@H]([C@@H]([C@H]([C@@]3(C(=O)C=C1O3)C)O)OC(=O)C(CC)C)C(=C)C(=O)O2)/C	9a-Hydroxy-atripliciolide-8-O-2-methylbutyrate	0.20	0.70	3/32	9.38%	5/13	38.46%
+18	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)[C@H](C(=O)O2)CC)/C	11α.13-dihydro-13-methoxy-15-deoxygoyazensolide	0.02	0.52	7/34	20.59%	5/13	38.46%
+19	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(CO)(OC(=O)C)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-Oxo-3.10-epoxy-8-(2-acetoxy-3-hydroxypropanoyloxy)-germacra-2.11l( 13)-diene-6.12-olide  	0.16	0.65	3/32	9.38%	4/13	30.77%
+20	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(CO)(O)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-1-0xo-3.10-epoxy-8-(2.3-dihydroxypropanoyloxy)-germacra-2.11(13)-dien-6.12-olide	0.17	0.65	3/32	9.38%	4/12	33.33%
+21	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(OC1)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-1-Oxo-3.10-epoxy-8-(2.3-epoxtypropanoyl-oxy)-germacra-2.11(13)-diene-6.12-oIide 	0.16	0.64	4/33	12.12%	3/12	25.00%
+22	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)[C@H](C(=O)O2)C)CO	4α.5-11α.13-Tetrahydrobudlein A.  derivado semisintetico	0.01	0.47	3/35	8.57%	7/14	50.00%
+23	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)[C@@H](C(=O)O2)C)CO	4α.5-11β.13-Tetrahydrobudlein A. derivado semisintetico	0.01	0.47	3/35	8.57%	7/14	50.00%
+24	C\1(=C\[C@H]([C@H]2[C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OCC(C)C)/C	2’,3’-Dihydro-15-desoxygoyazensolide	0.24	0.64	7/30	23.33%	3/12	25.00%
+25	[C@@H]1([C@@H]([C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)OC(=O)C2=C)O)C	5β-Hydroxy-4.5-dihydro-15-desoxygoyazensolide	0.05	0.44	2/32	6.25%	4/12	33.33%
+26	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)O)[C@@H](C(=O)O2)C)/C	11β.13-dihydro-8α-hydroxy-goyazensanolide	0.02	0.39	3/27	11.11%	2/10	20.00%
+27	[C@H]1(C[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	zexbrevin	0.05	0.39	2/32	6.25%	3/12	25.00%
+28	[C@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	(3aS,4S,6R,10R,11aR)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl methacrylate	0.05	0.39	2/32	6.25%	3/12	25.00%
+29	C1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	8α-[2-Methylacryloyloxy]-zexbrevanolide 	0.05	0.39	2/32	6.25%	3/12	25.00%
+30	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-1-Oxo-3.10-epoxy-8-methacryloxygermacra-2.11(13)-dien-6.12-olide 	0.05	0.39	2/32	6.25%	3/12	25.00%
+31	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)(C(C)O)O)/C	16α-(1', 2'-Dihydroxy-1'-methylpropyl)-eremantholide	0.16	0.49	5/33	15.15%	5/12	41.67%
+32	C\1(=C\[C@@H]2[C@H]3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)/C	composto 5	0.12	0.44	4/31	12.90%	5/11	45.45%
+33	C\1(=C\[C@@H]2C3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)/C	eremantholide A	0.12	0.44	4/31	12.90%	5/11	45.45%
+34	C\1(=C\[C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/CO)OC(=O)C2=C)/C	 6α-[5'-Hydroxytigloyloxy)-goyazensanolide	0.33	0.61	4/31	12.90%	5/12	41.67%
+35	C1(=C)[C@H]([C@H]([C@H]2[C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OC(=O)/C(=C\C)/C)O	5α-Hydroxy-6α-angeloyloxy-Δ-4.15-isogoyazensanolide	0.36	0.63	5/31	16.13%	6/12	50.00%
+36	C1(=C)[C@@H]([C@H]([C@H]2[C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OC(=O)/C(=C\C)/C)O	5β-Hydroxy-6α-angeloyloxy-Δ-4.15-isogoyazensanolide	0.36	0.63	5/31	16.13%	6/12	50.00%
+37	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OCC)/C(=C\C)/C)/CO	(2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-ethoxy-10-(hydroxymethyl)-2a,6-dimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.15	0.41	3/34	8.82%	6/14	42.86%
+38	[C@@H]1(C[C@@H]2[C@H]3[C@H](CC4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)C	(2aS,2a1R,3R,4aS,10S,11aR)-3-hydroxy-3-isopropyl-2a,6,10-trimethyl-2a,3,4a,5,6,10,11,11a-octahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.15	0.41	2/31	6.45%	5/11	45.45%
+39	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(C)C)C	16α-Isopropyl-4β,5H-eremantholanolide	0.15	0.41	2/31	6.45%	5/11	45.45%
+40	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C/C)/C)C	16α-[Methylprop-1 Z-enyI]-4β,5H-eremantholanolide	0.15	0.40	3/33	9.09%	4/12	33.33%
+41	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C/C)/C)/CO	15-Hydroxy-16α-(1-methylprop-1Z-enyl)-eremanthanolide	0.13	0.34	3/33	9.09%	5/12	41.67%
+42	[C@@H]1(C[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OC)/C(=C\C)/C)C	(4S,6R,7S,8S,10R,11S,16R)-1-Oxo-3(10),8(16)-diepoxy-16-methylprop-1Z-enyl-16-methoxygermacra-2-en-6(12)-olide	0.18	0.40	3/34	8.82%	4/13	30.77%
+43	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/COC(=O)C	1-Oxo-3.10-epoxy-8-angeloxy-15-acetoxygermacra-2.4.11(13)-trien-6(12)-oIide 	0.45	0.65	4/32	12.50%	5/13	38.46%
+44	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(O)(C(O)C)C)C(=C)C(=O)O2)/C	8α-(2`.3`dihydroxi-2`-methylbutanoyl)-15-deoxygoyazensolideo	0.25	0.44	6/31	19.35%	2/12	16.67%
+45	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C/C)/C)/COC(=O)C	((2aS,2a1R,3R,4aS,6R,11aR,Z)-3-((E)-but-2-en-2-yl)-3-hydroxy-2a,6-dimethyl-2,7-dioxo-2a,2a1,3,4a,5,6,7,11a-octahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalen-10-yl)methyl acetate	0.17	0.34	3/34	8.82%	5/13	38.46%
+46	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/COC(=O)C	15-Acetoxy-16α-(1-methylprop-1Z-enyl)-eremanthanolide	0.17	0.34	3/34	8.82%	5/13	38.46%
+47	[C@@H]1(C[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(COC(=O)C)(O)C)C(=C)C(=O)O2)C	(4S.6R.7S.8S.10R)-Oxo-3.10-epoxy-8-(3-acetoxy-2-hydroxypropanoyloxy)-germacra-2.11l( 13)-diene-6.12-olide  	0.18	0.35	2/33	6.06%	3/13	23.08%
+48	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)[C@@]1(OC1)C)C	(4S,6R,7S,8S,10R,11S,16R,17R)-4,5-Dihydro-17,18-epoxyeremantholide C	0.19	0.36	3/33	9.09%	4/11	36.36%
+49	C\1(=C\[C@@H]2[C@@H]([C@@H](CC3(C(=O)C=C1O3)C)OC(=O)C(=C)C)[C@](C(=O)O2)(O)CO)/C	11.13-Dihydroxy-calaxin	0.11	0.28	4/30	13.33%	5/11	45.45%
+50	[C@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)C	(2aS,3R,4aS,6R,10R,11aR)-3-hydroxy-2a,6,10-trimethyl-3-(prop-1-en-2-yl)-2a,3,4a,5,6,10,11,11a-octahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.24	0.39	2/32	6.25%	4/11	36.36%
+51	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)C	(4S,6R,7S,8S,10R,11lS,16R)-4,5-Dihydroeremantholide C 	0.24	0.39	2/32	6.25%	4/11	36.36%
+52	[C@@H]1(C[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)C	16α-Isopropenyl-4β,5H-eremantholanolide	0.24	0.39	2/32	6.25%	4/11	36.36%
+53	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/COC(=O)C	1-Oxo-3.10-epoxy-8-metacriloxy-15-acetoxygermacra-2.4.11(13)-trien-6(12)-oIide 	0.47	0.60	3/31	9.68%	4/12	33.33%
+54	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/COC(=O)C	goyazensolide acetate	0.47	0.60	3/31	9.68%	4/12	33.33%
+55	C1(=C)C[C@H](C2C(C[C@@]3(C(=O)C=C1O3)C)OC(=O)C2=C)OC(=O)C(=C)C	5β-Hydroxy-6α-methacryloyloxy-Δ4.15-iso-goyazensanolide	0.26	0.38	2/30	6.67%	4/11	36.36%
+56	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)/CO	15-Hydroxyeremantholide C 	0.22	0.34	3/32	9.38%	5/11	45.45%
+57	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(C)CO1)C(=C)C(=O)O2)/C	2'.3'-Epoxy-15-deoxygoyazensolide  	0.29	0.38	5/31	16.13%	3/11	27.27%
+58	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C(=C)C)/COC(=O)C	15-acetoxyeremantholide C 	0.26	0.34	3/33	9.09%	5/12	41.67%
+59	C\1(=C\[C@@H]2[C@@H]([C@@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/CO	Budlein A	0.35	0.41	3/31	9.68%	5/12	41.67%
+60	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/CO	centratherin	0.35	0.41	3/31	9.68%	5/12	41.67%
+61	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/CO	Lychnophorolide A	0.35	0.41	3/31	9.68%	5/12	41.67%
+62	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)/CO	Lychnophorolide B	0.35	0.41	3/31	9.68%	5/12	41.67%
+63	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OCC)/C(=C\C)/C)/C	2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-ethoxy-2a,6,10-trimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.17	0.24	5/34	14.71%	4/14	28.57%
+64	C\1(=C\[C@@H]2[C@H]3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C1(C(C)O1)C)/C	16α-(1'-Methyl-1,2-poxypropyl)-eremanthanolide	0.15	0.18	6/34	17.65%	4/12	33.33%
+65	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)C1(C)C(O1)C)/C	16α-[1-Methyl-1,2-poxypropyl]-eremantholanolide	0.15	0.18	6/34	17.65%	4/12	33.33%
+66	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/CO	goyazensolide	0.38	0.39	3/30	10.00%	3/11	27.27%
+67	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3([C@H](C[C@@H]1O3)O)CO)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/C	(-)-8α-Angeloxy-3α.10α-epoxy-1α.14-dihydroxygermacra-Z4-(5).11(13)-dien-6α.12-olide (furanonobilin)	0.46	0.46	3/38	7.89%	5/14	35.71%
+68	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/C	(2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-hydroxy-2a,6,10-trimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.16	0.15	5/33	15.15%	3/12	25.00%
+69	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/C	16α-[1'Methylprop-1E-enyl]-eremantholanolide	0.16	0.15	5/33	15.15%	3/12	25.00%
+70	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(O)/C(=C\C)/C)/C	16α-[1-Methylprop-1Z-enyl]-eremantholanolide	0.16	0.15	5/33	15.15%	3/12	25.00%
+71	C\1(=C\[C@@H]2C3[C@H](C[C@@]4(C(=O)C=C1O4)C)O[C@]([C@]3(C(=O)O2)C)(OC)/C(=C\C)/C)/C	(2aS,3R,4aS,6R,11aR,Z)-3-((Z)-but-2-en-2-yl)-3-methoxy-2a,6,10-trimethyl-2a,3,4a,5,6,11a-hexahydro-2H-1,4,12-trioxa-6,9-methanocyclodeca[cd]pentalene-2,7(2a1H)-dione	0.18	0.15	5/34	14.71%	3/13	23.08%
+72	C\1(=C\[C@H]2[C@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C(O)C)OC(=O)C2=C)/C	 6α-[2'-(1')-hydroxyethylacryloyloxyl]-goyazensanolide	0.39	0.35	3/31	9.68%	4/12	33.33%
+73	C1(=C)[C@@H]([C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)OC(=O)C	(3aR,4S,6R,11S,11aS)-11-acetoxy-6-methyl-3,10-dimethylene-2,7-dioxo-2,3,3a,4,5,6,7,10,11,11a-decahydro-6,9-epoxycyclodeca[b]furan-4-yl methacrylate	0.44	0.39	1/31	3.23%	5/12	41.67%
+74	C1(=C)[C@H]([C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)OC(=O)C	isogoyazensolide  acetate	0.44	0.39	1/31	3.23%	5/12	41.67%
+75	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C\C)/C)C(=C)C(=O)O2)/C	 lychnofolide 	0.27	0.16	5/31	16.13%	4/12	33.33%
+76	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)/C(=C/C)/C)C(=C)C(=O)O2)/C	6α-Tiglinoyloxy-goyazensolanolide	0.27	0.16	5/31	16.13%	4/12	33.33%
+77	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/C	(3aR,4S,6R,11aR,Z)-6,10-dimethyl-3-methylene-2,7-dioxo-2,3,3a,4,5,6,7,11a-octahydro-6,9-epoxycyclodeca[b]furan-4-yl methacrylate	0.33	0.11	4/30	13.33%	2/11	18.18%
+78	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C)C(=C)C(=O)O2)/C	15-deoxygoyazensolide	0.33	0.11	4/30	13.33%	2/11	18.18%
+79	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C1(C)C(C)O1)C(=C)C(=O)O2)/C	6α-[2.3-Epoxybuttyryloxy]-goyazensolide	0.24	0.00	5/32	15.62%	2/12	16.67%
+80	C\1(=C\[C@@H]2[C@@H]([C@H](C[C@@]3(C(=O)C=C1O3)C)OC(=O)C(=C)C[C@H]1[C@H](C3=CC(=O)[C@@](C[C@@H]([C@@H]4[C@@H]1OC(=O)C4=C)OC(=O)C(=C)C)(O3)C)C)C(=C)C(=O)O2)/C	rufescenolide C 	1.00	0.44	5/67	7.46%	6/23	26.09%
