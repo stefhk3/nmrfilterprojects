@@ -2,7 +2,7 @@
     "predictions": [
         {
             "smiles": "CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C1OC12",
-            "runtime": 0.206146240234375,
+            "runtime": 0.27634406089782715,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -114,7 +114,7 @@
         },
         {
             "smiles": "CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2",
-            "runtime": 0.19335556030273438,
+            "runtime": 0.23902487754821777,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -236,7 +236,7 @@
         },
         {
             "smiles": "CN1C2CCC1CC(O)C2",
-            "runtime": 0.2554967403411865,
+            "runtime": 0.2362499237060547,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -318,7 +318,7 @@
         },
         {
             "smiles": "CN1C2CCC1CC(O)C2",
-            "runtime": 0.19476771354675293,
+            "runtime": 0.23259449005126953,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -400,7 +400,7 @@
         },
         {
             "smiles": "CN1C2CCC1CC(=O)C2",
-            "runtime": 0.19527053833007812,
+            "runtime": 0.24927139282226562,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -472,7 +472,7 @@
         },
         {
             "smiles": "CC(O)(C(=O)O)c1ccccc1",
-            "runtime": 0.20459413528442383,
+            "runtime": 0.22112250328063965,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -529,7 +529,7 @@
         },
         {
             "smiles": "O=C(O)C(=O)Cc1ccccc1",
-            "runtime": 0.19240808486938477,
+            "runtime": 0.23745059967041016,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -576,7 +576,7 @@
         },
         {
             "smiles": "CN1[C@H]2CC[C@@H]1CC(OC(=O)C(CO)c1ccccc1)C2",
-            "runtime": 0.23880887031555176,
+            "runtime": 0.24198102951049805,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -698,7 +698,7 @@
         },
         {
             "smiles": "O[C@@H]1CC2CCC(O)(N2)[C@@H]1O",
-            "runtime": 0.20118188858032227,
+            "runtime": 0.23910760879516602,
             "shifts": [
                 {
                     "atom_idx": 11,
@@ -770,7 +770,7 @@
         },
         {
             "smiles": "O[C@H]1C2CCC(O)(N2)[C@H](O)[C@@H]1O",
-            "runtime": 0.2001945972442627,
+            "runtime": 0.23330283164978027,
             "shifts": [
                 {
                     "atom_idx": 12,
@@ -842,7 +842,7 @@
         },
         {
             "smiles": "CN1C2CC(OC(=O)C(CO)c3ccccc3)CC1C(O)C2",
-            "runtime": 0.20270919799804688,
+            "runtime": 0.22553372383117676,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -964,7 +964,7 @@
         },
         {
             "smiles": "CN1C2CCC1C(C(=O)O)C(OC(=O)c1ccccc1)C2",
-            "runtime": 0.20377206802368164,
+            "runtime": 0.23713374137878418,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -1066,7 +1066,7 @@
         },
         {
             "smiles": "CCOC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C",
-            "runtime": 0.19334053993225098,
+            "runtime": 0.23805975914001465,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -1188,7 +1188,7 @@
         },
         {
             "smiles": "COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C",
-            "runtime": 0.26662588119506836,
+            "runtime": 0.23473691940307617,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -1306,9 +1306,9 @@
         ],
         "model_checkpoint_filename": "models/default_1H.checkpoint",
         "model_meta_filename": "models/default_1H.meta",
-        "ts_start": "2020-08-27T12:53:04.246065",
-        "ts_end": "2020-08-27T12:53:07.328519",
-        "runtime_sec": 3.082453489303589,
+        "ts_start": "2020-09-16T13:36:18.562289",
+        "ts_end": "2020-09-16T13:36:22.053496",
+        "runtime_sec": 3.4912071228027344,
         "use_cuda": false
     }
 }

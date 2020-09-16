@@ -2,7 +2,7 @@
     "predictions": [
         {
             "smiles": "O=c1cc(-c2ccccc2)oc2ccccc12",
-            "runtime": 0.3278024196624756,
+            "runtime": 0.21909832954406738,
             "shifts": [
                 {
                     "atom_idx": 17,
@@ -59,7 +59,7 @@
         },
         {
             "smiles": "CN1C2CCC1CC(O)C2",
-            "runtime": 0.23710083961486816,
+            "runtime": 0.1968221664428711,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -141,7 +141,7 @@
         },
         {
             "smiles": "C=CC1CN2CCC1CC2C(O)c1ccnc2ccc(OC)cc12",
-            "runtime": 0.23925995826721191,
+            "runtime": 0.1979808807373047,
             "shifts": [
                 {
                     "atom_idx": 24,
@@ -268,7 +268,7 @@
         },
         {
             "smiles": "COc1c2occc2c(OC)c2c(=O)cc(C)oc12",
-            "runtime": 0.23629069328308105,
+            "runtime": 0.19631218910217285,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -335,7 +335,7 @@
         },
         {
             "smiles": "Cc1cccc(C=O)c1O",
-            "runtime": 0.24294137954711914,
+            "runtime": 0.2071070671081543,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -382,7 +382,7 @@
         },
         {
             "smiles": "CC(C=CC=C(C)C=CC1=C(C)CCCC1(C)C)=CC=CC=C(C)C=CC=C(C)C=CC1=C(C)CCCC1(C)C",
-            "runtime": 0.32712602615356445,
+            "runtime": 0.24196982383728027,
             "shifts": [
                 {
                     "atom_idx": 40,
@@ -669,7 +669,7 @@
         },
         {
             "smiles": "C=C1CCC(O)CC1=CC=C1CCCC2(C)C1CCC2C(C)CCCC(C)C",
-            "runtime": 0.33974289894104004,
+            "runtime": 0.21366429328918457,
             "shifts": [
                 {
                     "atom_idx": 28,
@@ -896,7 +896,7 @@
         },
         {
             "smiles": "CC(C)c1ccc(CO)cc1",
-            "runtime": 0.22022581100463867,
+            "runtime": 0.1917884349822998,
             "shifts": [
                 {
                     "atom_idx": 11,
@@ -973,7 +973,7 @@
         },
         {
             "smiles": "N[C@@H](Cc1ccc(O)cc1)C(=O)O",
-            "runtime": 0.3089628219604492,
+            "runtime": 0.19463801383972168,
             "shifts": [
                 {
                     "atom_idx": 13,
@@ -1035,7 +1035,7 @@
         },
         {
             "smiles": "NC(Cc1ccc(O)c(O)c1)C(=O)O",
-            "runtime": 0.2010514736175537,
+            "runtime": 0.19341802597045898,
             "shifts": [
                 {
                     "atom_idx": 14,
@@ -1097,7 +1097,7 @@
         },
         {
             "smiles": "O=C(O)C(=O)Cc1ccc(O)cc1",
-            "runtime": 0.226776123046875,
+            "runtime": 0.22101426124572754,
             "shifts": [
                 {
                     "atom_idx": 13,
@@ -1144,7 +1144,7 @@
         },
         {
             "smiles": "NCCc1ccc(O)c(O)c1",
-            "runtime": 0.21260786056518555,
+            "runtime": 0.1941850185394287,
             "shifts": [
                 {
                     "atom_idx": 11,
@@ -1206,7 +1206,7 @@
         },
         {
             "smiles": "O=CCc1ccc(O)cc1",
-            "runtime": 0.3562142848968506,
+            "runtime": 0.19547438621520996,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -1259,9 +1259,9 @@
         ],
         "model_checkpoint_filename": "models/default_1H.checkpoint",
         "model_meta_filename": "models/default_1H.meta",
-        "ts_start": "2020-08-27T12:46:19.966889",
-        "ts_end": "2020-08-27T12:46:23.687450",
-        "runtime_sec": 3.7205605506896973,
+        "ts_start": "2020-09-16T13:31:54.072731",
+        "ts_end": "2020-09-16T13:31:56.842062",
+        "runtime_sec": 2.7693309783935547,
         "use_cuda": false
     }
 }

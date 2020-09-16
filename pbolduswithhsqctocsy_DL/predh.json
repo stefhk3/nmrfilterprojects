@@ -2,7 +2,7 @@
     "predictions": [
         {
             "smiles": "COc1cc2c(cc1O)CCN(C)C2Cc1ccc(O)cc1",
-            "runtime": 0.26488709449768066,
+            "runtime": 0.22768425941467285,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -114,7 +114,7 @@
         },
         {
             "smiles": "CN1CCc2cc(O)c(O)cc2C1Cc1ccc(O)cc1",
-            "runtime": 0.21475768089294434,
+            "runtime": 0.21973776817321777,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -216,7 +216,7 @@
         },
         {
             "smiles": "COc1ccc(CC2c3cc(OC)c(O)cc3CCN2C)cc1",
-            "runtime": 0.22443151473999023,
+            "runtime": 0.21416068077087402,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -338,7 +338,7 @@
         },
         {
             "smiles": "COc1ccc(CC2c3cc(O)c(O)cc3CCN2C)cc1",
-            "runtime": 0.38097286224365234,
+            "runtime": 0.23057842254638672,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -450,7 +450,7 @@
         },
         {
             "smiles": "Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1",
-            "runtime": 0.4454386234283447,
+            "runtime": 0.2152097225189209,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -542,7 +542,7 @@
         },
         {
             "smiles": "COc1cc2c(cc1O)CCNC2Cc1ccc(O)cc1",
-            "runtime": 0.37430906295776367,
+            "runtime": 0.21107769012451172,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -644,7 +644,7 @@
         },
         {
             "smiles": "COc1cc2c(cc1O)CC1c3c(cc(O)c(OC)c3-2)CCN1C",
-            "runtime": 0.2823173999786377,
+            "runtime": 0.21253156661987305,
             "shifts": [
                 {
                     "atom_idx": 24,
@@ -756,7 +756,7 @@
         },
         {
             "smiles": "COc1cc2c(cc1O)CC1NCCc3cc(O)c(OC)c-2c31",
-            "runtime": 0.355271577835083,
+            "runtime": 0.20542097091674805,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -858,7 +858,7 @@
         },
         {
             "smiles": "COc1cc2c3c(c1OC)-c1c(O)cccc1CC3N(C)CC2",
-            "runtime": 0.2373490333557129,
+            "runtime": 0.20365285873413086,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -970,7 +970,7 @@
         },
         {
             "smiles": "COc1cc2c3c(c1O)-c1c(cccc1OC)CC3N(C)CC2",
-            "runtime": 0.23003458976745605,
+            "runtime": 0.20898008346557617,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -1082,7 +1082,7 @@
         },
         {
             "smiles": "COc1cc2c3c(c1OC)-c1c(cccc1OC)CC3NCC2",
-            "runtime": 0.20043492317199707,
+            "runtime": 0.20676136016845703,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -1194,7 +1194,7 @@
         },
         {
             "smiles": "COc1ccc2c(c1O)-c1c(OC)c(OC)cc3c1C(C2)N(C)CC3",
-            "runtime": 0.19823074340820312,
+            "runtime": 0.20115280151367188,
             "shifts": [
                 {
                     "atom_idx": 25,
@@ -1316,7 +1316,7 @@
         },
         {
             "smiles": "COc1ccc2c(c1O)-c1c(OC)c(OC)cc3c1C(C2)NCC3",
-            "runtime": 0.21860361099243164,
+            "runtime": 0.20070195198059082,
             "shifts": [
                 {
                     "atom_idx": 24,
@@ -1428,7 +1428,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.19047975540161133,
+            "runtime": 0.2018146514892578,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -1520,7 +1520,7 @@
         },
         {
             "smiles": "N[C@@H](Cc1ccc(O)cc1)C(=O)O",
-            "runtime": 0.18101859092712402,
+            "runtime": 0.20473384857177734,
             "shifts": [
                 {
                     "atom_idx": 13,
@@ -1582,7 +1582,7 @@
         },
         {
             "smiles": "NC(Cc1ccc(O)c(O)c1)C(=O)O",
-            "runtime": 0.18365049362182617,
+            "runtime": 0.22031927108764648,
             "shifts": [
                 {
                     "atom_idx": 14,
@@ -1644,7 +1644,7 @@
         },
         {
             "smiles": "O=C(O)C(=O)Cc1ccc(O)cc1",
-            "runtime": 0.18132495880126953,
+            "runtime": 0.2074909210205078,
             "shifts": [
                 {
                     "atom_idx": 13,
@@ -1691,7 +1691,7 @@
         },
         {
             "smiles": "NCCc1ccc(O)c(O)c1",
-            "runtime": 0.20018863677978516,
+            "runtime": 0.24501705169677734,
             "shifts": [
                 {
                     "atom_idx": 11,
@@ -1753,7 +1753,7 @@
         },
         {
             "smiles": "O=CCc1ccc(O)cc1",
-            "runtime": 0.21057605743408203,
+            "runtime": 0.20164155960083008,
             "shifts": [
                 {
                     "atom_idx": 10,
@@ -1800,7 +1800,7 @@
         },
         {
             "smiles": "Oc1ccc(CC2NCCc3cc(O)c(O)cc32)cc1",
-            "runtime": 0.18561029434204102,
+            "runtime": 0.20801544189453125,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -1892,7 +1892,7 @@
         },
         {
             "smiles": "COc1cc2c(cc1O)C(Cc1ccc(O)cc1)NCC2",
-            "runtime": 0.18733716011047363,
+            "runtime": 0.2109367847442627,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -1994,7 +1994,7 @@
         },
         {
             "smiles": "COc1cc2c(cc1O)C(Cc1ccc(O)cc1)N(C)CC2",
-            "runtime": 0.2087244987487793,
+            "runtime": 0.21313834190368652,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -2106,7 +2106,7 @@
         },
         {
             "smiles": "COc1ccc(CC2NCCc3cc(OC)c(O)cc32)cc1O",
-            "runtime": 0.21243739128112793,
+            "runtime": 0.24964499473571777,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -2218,7 +2218,7 @@
         },
         {
             "smiles": "COc1ccc(Cc2nccc3cc(OC)c(OC)cc23)cc1OC",
-            "runtime": 0.18729948997497559,
+            "runtime": 0.2084949016571045,
             "shifts": [
                 {
                     "atom_idx": 25,
@@ -2330,7 +2330,7 @@
         },
         {
             "smiles": "COc1cc2c(cc1O)C(Cc1ccc(O)c(O)c1)N(C)CC2",
-            "runtime": 0.1778097152709961,
+            "runtime": 0.20953750610351562,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -2442,7 +2442,7 @@
         },
         {
             "smiles": "COc1ccc(CC2c3cc(O)c(OC)cc3CCN2C)cc1O",
-            "runtime": 0.1831684112548828,
+            "runtime": 0.1970205307006836,
             "shifts": [
                 {
                     "atom_idx": 24,
@@ -2564,7 +2564,7 @@
         },
         {
             "smiles": "COc1ccc(CC2=[N+](C)CCc3cc(OC)c(O)cc32)cc1O",
-            "runtime": 0.18558788299560547,
+            "runtime": 0.22566962242126465,
             "shifts": [
                 {
                     "atom_idx": 24,
@@ -2681,7 +2681,7 @@
         },
         {
             "smiles": "COc1ccc(CC2c3cc(O)c(OC)cc3CCN2C)cc1O",
-            "runtime": 0.19588327407836914,
+            "runtime": 0.30491209030151367,
             "shifts": [
                 {
                     "atom_idx": 24,
@@ -2803,7 +2803,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.19733929634094238,
+            "runtime": 0.22887229919433594,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -2895,7 +2895,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.18344736099243164,
+            "runtime": 0.1954808235168457,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -2987,7 +2987,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1)-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.1836538314819336,
+            "runtime": 0.20531630516052246,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -3089,7 +3089,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1C(C)(C)c1ccccc1-3",
-            "runtime": 0.18363142013549805,
+            "runtime": 0.19643521308898926,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -3201,7 +3201,7 @@
         },
         {
             "smiles": "CCCN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.18311810493469238,
+            "runtime": 0.20682311058044434,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -3313,7 +3313,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.23110127449035645,
+            "runtime": 0.20996475219726562,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -3405,7 +3405,7 @@
         },
         {
             "smiles": "CCCN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.25465846061706543,
+            "runtime": 0.2014775276184082,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -3517,7 +3517,7 @@
         },
         {
             "smiles": "CCc1cccc2c1-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.22839641571044922,
+            "runtime": 0.20169878005981445,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -3629,7 +3629,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1cccc(-c2ccccc2)c1-3",
-            "runtime": 0.24049139022827148,
+            "runtime": 0.1977252960205078,
             "shifts": [
                 {
                     "atom_idx": 24,
@@ -3741,7 +3741,7 @@
         },
         {
             "smiles": "Cc1cccc2c1-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.28609275817871094,
+            "runtime": 0.19551920890808105,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -3843,7 +3843,7 @@
         },
         {
             "smiles": "C=Cc1cccc2c1-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.1978287696838379,
+            "runtime": 0.2126936912536621,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -3945,7 +3945,7 @@
         },
         {
             "smiles": "c1ccc(CN2CCCC3Cc4ccccc4CC32)cc1",
-            "runtime": 0.2772386074066162,
+            "runtime": 0.20728182792663574,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -4067,7 +4067,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.2130126953125,
+            "runtime": 0.2019939422607422,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -4159,7 +4159,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1)-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.20957517623901367,
+            "runtime": 0.197282075881958,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -4261,7 +4261,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1)-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.19653749465942383,
+            "runtime": 0.1975994110107422,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -4363,7 +4363,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.18790936470031738,
+            "runtime": 0.21390414237976074,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -4455,7 +4455,7 @@
         },
         {
             "smiles": "CN1Cc2ccccc2C2CCc3ccccc3C21",
-            "runtime": 0.28928041458129883,
+            "runtime": 0.20121479034423828,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -4557,7 +4557,7 @@
         },
         {
             "smiles": "C=CCN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.2636690139770508,
+            "runtime": 0.20599913597106934,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -4659,7 +4659,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.2209181785583496,
+            "runtime": 0.19824695587158203,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -4751,7 +4751,7 @@
         },
         {
             "smiles": "CCC[N+]1(C)CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.2420969009399414,
+            "runtime": 0.2097148895263672,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -4878,7 +4878,7 @@
         },
         {
             "smiles": "Cc1cc2c(c(C)c1C)-c1c(C)c(C)c(C)c3c1C(C2)[N+](C)(C)CC3",
-            "runtime": 0.18766021728515625,
+            "runtime": 0.20267748832702637,
             "shifts": [
                 {
                     "atom_idx": 25,
@@ -5045,7 +5045,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.20518779754638672,
+            "runtime": 0.19736170768737793,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -5137,7 +5137,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.2257382869720459,
+            "runtime": 0.19742441177368164,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -5229,7 +5229,7 @@
         },
         {
             "smiles": "CCCc1ccc2c3c1-c1ccccc1CC3N(C)CC2",
-            "runtime": 0.21210575103759766,
+            "runtime": 0.2025470733642578,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -5351,7 +5351,7 @@
         },
         {
             "smiles": "CCCN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.20952415466308594,
+            "runtime": 0.22657394409179688,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -5463,7 +5463,7 @@
         },
         {
             "smiles": "Cc1cccc2c1CCC1C2CCCN1Cc1ccccc1",
-            "runtime": 0.1892380714416504,
+            "runtime": 0.2109076976776123,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -5595,7 +5595,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1)C1c3cc(C)c(C)cc3CCC1N(Cc1ccccc1)C2",
-            "runtime": 0.2521216869354248,
+            "runtime": 0.2362072467803955,
             "shifts": [
                 {
                     "atom_idx": 28,
@@ -5747,7 +5747,7 @@
         },
         {
             "smiles": "CN1CCc2cc(F)cc3c2C1Cc1ccccc1-3",
-            "runtime": 0.28696298599243164,
+            "runtime": 0.19878673553466797,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -5834,7 +5834,7 @@
         },
         {
             "smiles": "Cc1ccc2c3c1-c1ccccc1CC3N(C)CC2",
-            "runtime": 0.20701837539672852,
+            "runtime": 0.19435596466064453,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -5936,7 +5936,7 @@
         },
         {
             "smiles": "CCN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.1995372772216797,
+            "runtime": 0.21877312660217285,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -6038,7 +6038,7 @@
         },
         {
             "smiles": "COCN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.30382204055786133,
+            "runtime": 0.3870675563812256,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -6140,7 +6140,7 @@
         },
         {
             "smiles": "C[N+]1(CCCF)CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.19503068923950195,
+            "runtime": 0.30537962913513184,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -6262,7 +6262,7 @@
         },
         {
             "smiles": "Cc1cc2c(cc1C)-c1c(C)c(C)c(C)c3c1C(C2)N(C)CC3",
-            "runtime": 0.2074418067932129,
+            "runtime": 0.20565557479858398,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -6404,7 +6404,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.1829679012298584,
+            "runtime": 0.20708250999450684,
             "shifts": [
                 {
                     "atom_idx": 18,
@@ -6496,7 +6496,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccc(F)cc1-3",
-            "runtime": 0.19923162460327148,
+            "runtime": 0.3004434108734131,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -6583,7 +6583,7 @@
         },
         {
             "smiles": "CN1Cc2ccccc2C2CCc3ccccc3C21",
-            "runtime": 0.21107816696166992,
+            "runtime": 0.20847511291503906,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -6685,7 +6685,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1)-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.19974660873413086,
+            "runtime": 0.1981198787689209,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -6787,7 +6787,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccc(C(F)(F)F)cc1-3",
-            "runtime": 0.2578706741333008,
+            "runtime": 0.21816682815551758,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -6874,7 +6874,7 @@
         },
         {
             "smiles": "CN1Cc2ccccc2C2CCc3ccccc3C21",
-            "runtime": 0.19027209281921387,
+            "runtime": 0.20354485511779785,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -6976,7 +6976,7 @@
         },
         {
             "smiles": "CCCN1CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.20683598518371582,
+            "runtime": 0.22142767906188965,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -7088,7 +7088,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1)-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.2211456298828125,
+            "runtime": 0.2304549217224121,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -7190,7 +7190,7 @@
         },
         {
             "smiles": "c1ccc(CN2CCCC3Cc4ccccc4CC32)cc1",
-            "runtime": 0.18626880645751953,
+            "runtime": 0.2129671573638916,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -7312,7 +7312,7 @@
         },
         {
             "smiles": "CC(c1ccccc1)N1CCCC2(C)c3ccccc3CCC12",
-            "runtime": 0.3043200969696045,
+            "runtime": 0.20565080642700195,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -7454,7 +7454,7 @@
         },
         {
             "smiles": "CC(c1ccccc1)N1CCCC2(C)c3ccccc3CCC12",
-            "runtime": 0.236494779586792,
+            "runtime": 0.20411443710327148,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -7596,7 +7596,7 @@
         },
         {
             "smiles": "c1ccc(CN2CCCC3Cc4ccccc4CC32)cc1",
-            "runtime": 0.195479154586792,
+            "runtime": 0.20948266983032227,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -7718,7 +7718,7 @@
         },
         {
             "smiles": "C=C1c2cccc3c2C(CCC3)N(Cc2ccccc2)C1(C)C",
-            "runtime": 0.19044065475463867,
+            "runtime": 0.2041950225830078,
             "shifts": [
                 {
                     "atom_idx": 23,
@@ -7850,7 +7850,7 @@
         },
         {
             "smiles": "CN1Cc2ccccc2C2CCc3ccccc3C21",
-            "runtime": 0.18365740776062012,
+            "runtime": 0.22015619277954102,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -7952,7 +7952,7 @@
         },
         {
             "smiles": "CN1Cc2ccccc2C2CCc3ccccc3C21",
-            "runtime": 0.20393013954162598,
+            "runtime": 0.20411324501037598,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -8054,7 +8054,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccc(F)cc1-3",
-            "runtime": 0.2046184539794922,
+            "runtime": 0.20642828941345215,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -8141,7 +8141,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccc(F)cc1-3",
-            "runtime": 0.19543743133544922,
+            "runtime": 0.19998526573181152,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -8228,7 +8228,7 @@
         },
         {
             "smiles": "CCC[N+]1(C)CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.19438886642456055,
+            "runtime": 0.2007277011871338,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -8355,7 +8355,7 @@
         },
         {
             "smiles": "CCC[N+]1(C)CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.1874217987060547,
+            "runtime": 0.2128129005432129,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -8482,7 +8482,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1)-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.19038963317871094,
+            "runtime": 0.21384358406066895,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -8584,7 +8584,7 @@
         },
         {
             "smiles": "CN1CCc2cccc3c2C1Cc1ccc(C(F)(F)F)cc1-3",
-            "runtime": 0.20698142051696777,
+            "runtime": 0.20577263832092285,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -8671,7 +8671,7 @@
         },
         {
             "smiles": "CCCN1CCc2cccc3c2C1Cc1cccc(CN)c1-3",
-            "runtime": 0.22657322883605957,
+            "runtime": 0.19700145721435547,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -8798,7 +8798,7 @@
         },
         {
             "smiles": "CN1CCc2ccc(Cc3ccccc3)c3c2C1Cc1ccccc1-3",
-            "runtime": 0.1918189525604248,
+            "runtime": 0.1971416473388672,
             "shifts": [
                 {
                     "atom_idx": 25,
@@ -8920,7 +8920,7 @@
         },
         {
             "smiles": "Cc1ccc2c3c1CCN(C)C3Cc1ccccc1-2",
-            "runtime": 0.22204184532165527,
+            "runtime": 0.2143697738647461,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -9022,7 +9022,7 @@
         },
         {
             "smiles": "c1ccc(CN2CCCC3Cc4ccccc4CC32)cc1",
-            "runtime": 0.19199252128601074,
+            "runtime": 0.19905853271484375,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -9144,7 +9144,7 @@
         },
         {
             "smiles": "c1ccc(CN2CCCC3Cc4ccccc4CC32)cc1",
-            "runtime": 0.19194698333740234,
+            "runtime": 0.21305322647094727,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -9266,7 +9266,7 @@
         },
         {
             "smiles": "Cc1cccc(C)c1-c1cccc2c1-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.2602684497833252,
+            "runtime": 0.20813465118408203,
             "shifts": [
                 {
                     "atom_idx": 26,
@@ -9398,7 +9398,7 @@
         },
         {
             "smiles": "CN1Cc2ccccc2C2c3ccccc3CCC21",
-            "runtime": 0.2169337272644043,
+            "runtime": 0.20495867729187012,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -9500,7 +9500,7 @@
         },
         {
             "smiles": "CC1CN(C)C2Cc3ccccc3-c3cccc1c32",
-            "runtime": 0.20229625701904297,
+            "runtime": 0.20527195930480957,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -9602,7 +9602,7 @@
         },
         {
             "smiles": "CCC1CN(C)C2Cc3ccccc3-c3cccc1c32",
-            "runtime": 0.1818084716796875,
+            "runtime": 0.19774436950683594,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -9714,7 +9714,7 @@
         },
         {
             "smiles": "c1ccc(CN2CCCC3c4ccccc4CCC32)cc1",
-            "runtime": 0.1958599090576172,
+            "runtime": 0.20339441299438477,
             "shifts": [
                 {
                     "atom_idx": 21,
@@ -9836,7 +9836,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1C)-c1cccc3c1C(C2)N(C)CC3",
-            "runtime": 0.19553136825561523,
+            "runtime": 0.1958935260772705,
             "shifts": [
                 {
                     "atom_idx": 20,
@@ -9948,7 +9948,7 @@
         },
         {
             "smiles": "CCCN1CCc2cccc3c2C1Cc1cccc(CN)c1-3",
-            "runtime": 0.1839766502380371,
+            "runtime": 0.31827211380004883,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -10075,7 +10075,7 @@
         },
         {
             "smiles": "CCCN1CCc2cccc3c2C1Cc1cccc(CN)c1-3",
-            "runtime": 0.1890416145324707,
+            "runtime": 0.33829641342163086,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -10202,7 +10202,7 @@
         },
         {
             "smiles": "C[N+]1([O-])CCc2cccc3c2C1Cc1ccccc1-3",
-            "runtime": 0.21691560745239258,
+            "runtime": 0.2136383056640625,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -10294,7 +10294,7 @@
         },
         {
             "smiles": "CC1c2ccccc2-c2cccc3c2C1N(C)CC3",
-            "runtime": 0.2148728370666504,
+            "runtime": 0.19576454162597656,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -10396,7 +10396,7 @@
         },
         {
             "smiles": "CN1CCc2ccc(F)c3c2C1Cc1ccccc1-3",
-            "runtime": 0.20187664031982422,
+            "runtime": 0.21836328506469727,
             "shifts": [
                 {
                     "atom_idx": 19,
@@ -10483,7 +10483,7 @@
         },
         {
             "smiles": "Cc1ccc2c(c1C)-c1c(C)c(C)cc3c1C(C2)N(C)CC3",
-            "runtime": 0.18381404876708984,
+            "runtime": 0.2024242877960205,
             "shifts": [
                 {
                     "atom_idx": 22,
@@ -10621,9 +10621,9 @@
         ],
         "model_checkpoint_filename": "models/default_1H.checkpoint",
         "model_meta_filename": "models/default_1H.meta",
-        "ts_start": "2020-08-27T13:42:25.849723",
-        "ts_end": "2020-08-27T13:42:47.927426",
-        "runtime_sec": 22.077702283859253,
+        "ts_start": "2020-09-16T13:52:08.911385",
+        "ts_end": "2020-09-16T13:52:30.609972",
+        "runtime_sec": 21.698586225509644,
         "use_cuda": false
     }
 }
