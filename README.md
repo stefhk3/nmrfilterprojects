@@ -6,4 +6,4 @@ For example, running
 
 `nmrfilter.sh artificial'
 
-uses the data in the project/folder "artificial". See the [README]([https://github.com/stefhk3/nmrfilter](https://github.com/stefhk3/nmrfilter/blob/master/README.md) in nmrfilter for more details
+uses the data in the project/folder "artificial". See the [README](https://github.com/stefhk3/nmrfilter/blob/master/README.md) in nmrfilter for more details
